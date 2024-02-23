@@ -1,0 +1,3909 @@
+No,CUSTOMER_NAME,TITLE,COMMENTS,RATINGS,SENTIMENT,SOURCE,UnFormatted_ASPECTS,ASPECTS
+1,Rajakishore mallick,Nice product.,I like JBL .sound is awsome & looks is too good.,5,Positive,amazon,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Design"",
+""Weight"": 7
+}","['Sound', 'Design']"
+2,Zaki Ahmed,Keeping it despite wanting to return it,"I have been using Bluetooth for several years now , and I find it difficult to find a pair that satisfies me ,but I really liked this one , the positives are - 1 excellent sound , 2 - excellent mics and the voice activated assistant feature works very well , call quality is really good.
+The negative that annoyed me a lot was that anc does not work when we use a single earbud , which is how I use earphones most of the time .. this was really frustrating and pointless I hope they give us the ability to use anc on one earbud through a firmware update, I don't know why they have put such stupid restrictions in the first place .. the anc however is not that strong .. I uninstalled the JBL app and use it without the app .. you can change from anc to transparency just by asking the Google assistant to do it ..so I didn't find a need for the app and also experienced some playback issues which were resolved as soon as I removed the app and even read some reviews that the app is causing playback issues .. the pros are good sound , good mics and overall apart from not being able to use anc with one earbud this tws is really good .., I got it for 7.5k for that price I'm really happy with these",5,Positive,amazon,"{
+""Aspect"": ""Sound"",
+""Weight"": 8 }
+{
+""Aspect"": ""Mics"",
+""Weight"": 9 }
+{
+""Aspect"": ""Voice Assistant"",
+""Weight"": 7 }
+{
+""Aspect"": ""Call Quality"",
+""Weight"": 6 }
+{
+""Aspect"": ""ANC"",
+""Weight"": 4 }","['Sound', 'Mics', 'Voice Assistant', 'Call Quality', 'ANC']"
+3,ABHINAV,Marvellous,"Play Video
+ Pros
+Comfortablle to ears
+Fast connectivity
+JBL app is available for our comfortable pith/mode adjustments
+Battery performance is good
+ANC is good
+Cons
+Quality is not up to the mark for the case
+Volume is not much high",4,Positive,amazon,"{
+""Aspects"": [
+{
+""Aspect"": ""Comfortable"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Fast connectivity"",
+""Weight"": 9
+},
+{
+""Aspect"": ""JBL app"",
+""Weight"": 7
+},
+{
+""Aspect"": ""Battery performance"",
+""Weight"": 8
+},
+{
+""Aspect"": ""ANC"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Volume"",
+""Weight"": 6
+}
+]
+}","['Comfortable', 'Fast connectivity', 'JBL app', 'Battery performance', 'ANC', 'Volume']"
+4,Ayush A.,Just after 1 month of warranty period product is not working.,"I purchased this product in December 2022, and it cost me around 13,999 that time, last December 2023 my product warranty expired, and from 3rd Jan 2024 suddenly product stopped working, I don't know the reason, product neither fell into water nor out of my hands, it suddenly stopped working, and when I call to jbl customer care they are saying sorry we cannot do anything, this product is non repairable, I lost my 14000 rupees, and now it's trash to me. I'm really disappointed. ð",1,Negative,amazon,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Customer Service"",
+
+""Weight"": 6
+
+}","['Quality', 'Customer Service']"
+5,Hridey,Damn good! Worth the buck,"Tried it on a year back, was truly impressed by the quality of ANC and sound
+Worth the money back then, even more worth it on discount.
+If youâre looking for a reliable and exceptional quality earphones on a budget, go for it!",5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}","['Quality', 'Sound']"
+6,Humam khan,Excellent for calling and music,"I bought JBL Live Pro 2 for my office meeting on MS Teams and it works perfect. Sound quality is excellent. Connectivity with laptop is established as soon as you pull out the earphones from the case. Call quality is top notch and when you activate noise cancellation, it goes to next level. I highly recommend these for calling. Now, let's come to music quality, that is also awesome. Bass is too good, you can clearly here instruments not audible on speakers. I bought it for 8999 in amazon great Indian festival sale.",5,Positive,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Connectivity"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Call Quality"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Noise Cancellation"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Music Quality"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Value for Money"",
+
+""Weight"": 7
+
+}","['Sound', 'Connectivity', 'Call Quality', 'Noise Cancellation', 'Sound', 'Value for Money']"
+7,Prasanth Kumar S,JBL live pro 2 awesome experience,"Pro's
+Clear bass â­â­â­â­â­
+Clear ANC â­â­â­â­â­
+Alexa and google assistant inbuilt
+Voice clarity awesomeððð
+Buds fitness awesome
+Customise equaliser
+
+Cons
+
+But some times app restarted with the sound of ""connected"" Voice
+Spatial audio not available
+Otherwise worth for money..",5,Positive,amazon,"{
+""Aspects"": [
+{
+""Aspect"": ""Clear bass"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Clear ANC"",
+""Weight"": 9
+},
+{
+""Aspect"": ""Voice clarity"",
+""Weight"": 9
+},
+{
+""Aspect"": ""Buds fitness"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Customise equaliser"",
+""Weight"": 7
+}
+]
+}","['Bass', 'ANC', 'Sound', 'Buds Fitness', 'Customise equaliser']"
+8,VISHNU,JBL Live pro 2 is good.but not recommended.,"It is my 3 week usage review.
+
+Pros-
+*ANC is good at this price.But High frequency noises are not blocked much.You can hear other people's speech as a sharp electronic sound.
+
+*Battery backup-Very good.
+
+*Multipoint connectivity-Very good.I have connected my laptop and phone.
+
+Cons-
+*App-I thought the jbl headphone app would be great.Best in terms of features.But this app doesn't open most of the time. Also, if the app is running in the background, the audio will break sometimes.It irritates me a lot.
+So I usually force stop this app.Then this problem is rarely seen.
+
+*Blutooth range-Bluetooth will break if there is a wall or something between the phone and tws.My previous sony wf1000xm3 didn't have this problem.
+
+*Fit-Even the single eartip that comes with it doesn't suit me.I am using foam tip with this which I bought from amazon earlier for my sony tws.It gives a good fit.
+
+*Case hinge-The lid is wobbling because the hinge of the case is not secure.
+
++/- Sound Quality-(It closely resembles the sound signature of the realme buds air 3s(2k) used by my brother)
+Stock tuning and stock presets are seemed very bad. We can customize the sound according to our needs using phone eq and app eq.
+
+*Bass-There is good sub bass but the treble is too high.So you can enjoy the bass by reducing the treble well.Mid bass is a little low.
+
+*Mid-It is slightly recessed.The vocal sounds a bit thin and sharp.
+
+*Highs-It is very bright,too harsh for me and a slight sibilance was felt.
+
+Apart from the audio break issue I would say this is a great tws headset.I understand that this is JBL Headphone app issue.I know many people have experience with this issue.This product has been out for more than a year.So far JBL has not been able to fix this problem. So I can't recommend it to anyone.",2,Negative,amazon,"{
+""Aspects"": [
+{
+""Aspect"": ""Pros"",
+""Weight"": 8
+}, {
+""Aspect"": ""Cons"",
+""Weight"": 7
+}
+],
+
+""Weighted Aspects"": [
+
+{
+""Bass"", ""Mid"", ""Highs"",
+""Weight"": [5, 4, 3, 2]
+}
+]
+}","['Bass', 'Mid','Highs','Weight']"
+9,Amazon Customer,Good Earbud,"Good Earbud. One less star is for the app. It sometimes does not work while the earbuds are in use..You need to remove them, put them back and then open the case for the app to work",4,Positive,amazon,"{
+""Aspect"": ""App functionality"",
+""Weight"": 7
+
+}",['App functionality']
+10,Abhishek Rana,Better than Airpods pro,This earbuds are way better than airpods pro 2 and itâs also cost less.,5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+
+}",['Quality']
+11,Sujit Shinde,Not so premium experience,"Connection issues, switching between devices doesnât function smoothly.",3,Negative,amazon,"{
+""Aspect"": ""Connection issues"",
+""Weight"": 8
+
+}",['Connectivity']
+12,Rishav Sharma,Animation for iOS,Sound quality of this product is Awesome in this price bracket. Just one thing is lacking that is animation for iOS application then it will definitely break the market of Apple Airpods pro,4,Positive,amazon,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+
+}",['Sound']
+13,Kaushik,Sound quality is too good,Best product ever,5,Positive,amazon,"{
+""Aspect"": ""Product"",
+""Weight"": 10
+}",['Product']
+14,Ryka Thomas,6 month review,"Have to say, i love using these buds.
+The most useful feature for me is dual device connectivity. I use this a lot and it is is flawless.
+I know, I know. What abouy its primary function!! Wrll, truth be told, the aound quality coming through these buds is decent. If there is anything, then its only that I've experienced better max volume in other buds like the Soundcore. But once you snug it in both years then it actually compensates. The size and the charging speeds are very good. And looks premium. All in all, is recommend it.",4,Positive,amazon,"{
+""Aspect"": ""Dual device connectivity"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Sound quality"",
+""Weight"": 3
+}
+{
+""Aspect"": ""Size and charging speeds"",
+""Weight"": 7
+}
+{
+""Aspect"": ""Premium look and feel"",
+""Weight"": 6
+}","['Dual device connectivity', 'Sound', 'Size', 'charging speeds', 'Premium look and feel']"
+15,Ranjit Patra,Product Quality,It's a awesome product. Worth it.,5,Positive,amazon,"{
+""Aspect"": ""Worth it"",
+""Weight"": 8
+}",['Worth it']
+16,Venkatesh mallan,JBL pro 2,Awesome product,5,Positive,amazon,"{
+""Aspect"": ""Product"",
+""Weight"": 9
+}",['Product']
+17,Ratheesh AG,Excellent,Excellent,5,Positive,amazon,"{
+""Aspect"": ""Excellent"",
+""Weight"": 9
+}",['Excellent']
+18,V,JBL Live Pro 2 - review after 2 months usage,"4.5 stars
+I am completely blown away by these earbuds.
+They definitely are above the rest TWS in terms of both ANC & Audio Quality, but still behind Sony WF-1000XM4 and Bose Quite Comfort. Connectivity and battery life are good as well. Its very comfortable to wear also, due to its enique oval shaped ear piece. I felt that it is more comfortable than Sony WF-1000XM4. And it won't fall off even if you shook your head, or jogged and all. I wear it to gym too.
+The only problem I faced is it disconnects or goes off for a very small time, like 0.05 seconds, while playing youtube videos in my laptop. It happens like every 30-45 mins or so. But the same problem doesn't happen in my phone. Still I am satisfied with these earbuds because this problem doesn't happen while playing anything other than youtube, that too only in my laptop.
+Otherwise, JBL Live Pro 2 is all fine and the best in the price range.",4,Positive,amazon,"{
+""Aspect"": ""Audio Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Connectivity"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Battery Life"",
+
+""Weight"": 6
+
+}
+
+
+{
+
+""Aspect"": ""NC"",
+
+""Weight"": 5
+
+}","['Sound', 'Comfort', 'Connectivity', 'Battery Life', 'NC']"
+19,Johnson P G,Sound quality and battery backage.,Sound quality and battery backage is very amaze.... ððð,5,Positive,amazon,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Battery backup"",
+
+""Weight"": 9
+
+}","['Sound', 'Battery backup']"
+20,Sayan D.,Best wireless ear buds you can buy.,"I have tried apple airpods, samsung air buds and the jbl cheaper ones, but not this.
+Based on expert reviews on PC mag etc, i decided to go for this due to its size (compared to samsung) and sound quality(compared to apple)
+
+i found this superior when playing complex sound tracks with mix of both high and low frequencies.. something which the apple airpods would start to crackle at.
+
+Gave it 4 stars only because the app and software is a bit buggy right now :D but not deal breaking.
+
+i use full version of PowerAmp for music playback with high-res audio output and this headphone(compared to apple) copes up with very very well.
+
+I am coming to this headphone from a pair of Audio Technica wired ones and these have impressed me a lot. so that says a lot about how good these are!
+
+After using this extensively i must dock one more star. The right bud discharges quicker than the left one. Also the audio suffers in quality when playing complicated pieces. This is because of the software issue that switches it to video mode incorrectly.... Please fix this :(
+
+UPDATE: using this for almost a year now. Battery life still seems decent. I have found certain songs make it crackle. Even though the song is a FLAC. I think the software really let's this down.",3,Positive,amazon,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Size and weight"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Software issues"",
+
+""Weight"": 3
+
+}
+
+
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 6
+
+}","['Sound', 'Size', 'weight', 'Software issues', 'Battery life']"
+21,Amazon Customer,Great product,Awesome,5,Positive,amazon,"{
+""Aspect"": ""Awesome"",
+""Weight"": 9
+}",['Awesome']
+22,Abdul,Noise cancellation is good,These r very good,4,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}",['Quality']
+23,Surfraz Shaikh,Not recommend for calling purposes,"I am writing this review after using for a month. After doing much research i decided to buy this product. Almost shelling out 12k, now i am feeling that i made completely wrong decision.
+
+Pros: Music good, noise cancellation is ok while listing music. There is a JBL app where you can customize music, settings etc
+Cons: My whole purpose for purchasing this costly product was for calling and my experience is pathetic with JBL product. There is lot of background noice heard by my office colleagues and my voice is suppressed during the call. This 3 mic is not effective for calling and cancellation of noice cancellation.
+
+Hence if you are looking earbuds for calling purpose then i don't recommend it. And if you are looking for music then you can get better and cheaper products in market.",2,Negative,amazon,"{
+""Aspect"": ""Music Quality"",
+""Weight"": 7
+}
+
+{
+
+""Aspect"": ""Noise Cancellation"",
+
+""Weight"": 3
+
+}
+
+
+{
+
+""Aspect"": ""Calling Experience"",
+
+""Weight"": 2
+
+}","['Sound', 'Noise Cancellation', 'Calling Experience']"
+24,Placeholder,Nice Earpods,"I am using JBL Live Pro 2 for the last one month. It is worth for the money. Sound clarity is very good, ANC works beautifully. MIC gives clear voice communication during phone calls. Talk through and ambient sensing options are really good features. Last but not the least, battery last more than my expectations. (I am not a continuous headphone user)",5,Positive,amazon,"{
+""Aspect"": ""Sound Clarity"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Active Noise Cancellation"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Microphone Quality"",
+""Weight"": 7
+}
+{
+""Aspect"": ""Talk Through and Ambient Sensing"",
+""Weight"": 6
+}
+{
+""Aspect"": ""Battery Life"",
+""Weight"": 9
+}","['Sound', 'Active Noise Cancellation', 'Microphone Quality', 'Talk Through and Ambient Sensing', 'Battery Life']"
+25,Rakesh Jhanji,Happy to purchase this,Very well balanced sound. It ticks all the right boxes. Satisfied with the sound quality.,4,Positive,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+
+}",['Sound']
+26,TAGUM JAMOH,Too pricy,"Quality is good. But it is two pricy. I have JBL 230 ANC in half the price and the JBL 230 ANC gives the same performance.
+Instead of buying this pricy creature, better go for the JBL 230 ANC. Similar sound quality and similar call quality in half the price.",4,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Price"",
+
+""Weight"": 9
+
+}","['Quality', 'Price']"
+27,Vital Concept Design Pvt Ltd,Awesome product,Brilliant product and price,5,Positive,amazon,"{
+""Aspect"": ""Product"",
+""Weight"": 8
+}",['Product']
+28,rahul j.,Typical jbl,"The audio interrupts all the time and the battery is only up for max 20 hrs(rough estimate) and doesn't give 40+4hrs as claimed.
+
+Better to go fir some standard earphones.",2,Negative,amazon,"{
+""Aspect"": ""Audio Interrupts"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Battery Life"",
+""Weight"": 2
+}","['Sound Interrupts', 'Battery Life']"
+29,Ankur,JBL rocks,"Amazing earbuds. Best one to purchase. Quality, features everything was great.",5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}",['Quality']
+30,Amazon Customer,just okk,"the actual thing is these are good but 11 k is very expensive , it should have cost around 8k",4,Positive,amazon,"{
+""Aspect"": ""Cost"",
+""Weight"": 7
+
+}",['Cost']
+31,Anita Tyor,not a good purchase,"these headphones have the worst software ever, which makes it's features like smart audio and video (even equilizer) frustating to use, the jbl headphones app sometimes doesn't open even after reinstalling. the audio quality is good.",3,Negative,amazon,"{
+""Aspect"": ""Software"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Audio Quality"",
+
+""Weight"": 4
+
+}","['Software', 'Sound']"
+32,Mayank Abhishek,A very premium set of earbuds by jbl,"Play Video
+ I will keep it brief
+Built quality - very good
+Finish - very good
+Sound quality - itâs actually amazing after many headphones and earphones some good wireless buds and along with the equaliser itâs a dynamite
+Bass - excellent - small size big boom
+Especially set with the app from jbl
+Will review the battery life in a few days and comment upon them
+ANC - beautiful ANC along with adjustments via the app. Jbl have really given the user a lot of freedom in tuning the earphones as per the user. Kudos ð¤ð¼
+
+This is a review after one year and few months
+The earphones are in simple words - value for money",4,Positive,amazon,"{
+""Aspect"": ""Built quality"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Finish"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Bass"",
+""Weight"": 9
+}
+{
+""Aspect"": ""ANC"",
+""Weight"": 10
+}","['Built quality', 'Finish', 'Sound', 'Bass', 'ANC']"
+33,Mukesh,Best buds for noise cancelling,"Play Video
+ JBL is known for quality and performance... best buds ever for music and calls... must have.. go for it without 2nd thought",5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Performance"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Must-Have"",
+
+""Weight"": 10
+
+}","['Quality', 'Performance', 'Must-Have']"
+34,Rajeev,Mic does not work reliably,"- excellent noise cancellation and audio (just for listening) for both office calls as well as music/movies etc
+
+two key drawbacks:
+1. mic does not work properly and during office calls, other people start complaining that my voice they cannot hear properly with few words not being hear. When I use normal laptop mic/speaker, they say they can hear much better my voice.
+2. it does not hold into my ear if I have to list to music while lying down or while eating or drinking something. It just falls down
+
+because of above reasons, this unit is not worth the price (10k)",2,Negative,amazon,"{
+""Aspects"": [
+{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Audio Quality"",
+""Weight"": 7
+},
+{
+""Aspect"": ""Mic Quality"",
+""Weight"": 3
+},
+{
+""Aspect"": ""Earbuds Fit"",
+""Weight"": 2
+}
+]
+
+}","['Noise Cancellation', 'Sound', 'Mic Quality', 'Earbuds Fit']"
+35,Arnab C.,As always Jbl = satisfaction,All pros.. only con ( if one has to choose) the sound could be a bit louder,4,Positive,amazon,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+
+}",['Sound']
+36,Premnath,JBL live Pro 2 TWS,TWS is simply cool and awesome.,5,Positive,amazon,"{
+""Aspect"": ""Cool"",
+""Weight"": 8
+}",['Cool']
+37,PINAKI SAMANTARAY,Media,Great ð ð,5,Positive,amazon,"{
+""Aspects"": [""Great"", ""Product""],
+""Weight"": 8
+
+}",[]
+38,Nice,Good,Good,5,Positive,amazon,"{
+""Aspect"": ""Good"",
+""Weight"": 8
+}",['Good']
+39,Harjith,Decent product,Noise cancellation is questionable but at the price wasn't looking for high-end buds quality. Definitely VFM,4,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 7
+
+}",['Quality']
+40,SJD,Good but not great,"Good sound quality.
+
+Noise cancellation could have been better.
+
+Not very comfortable to wear for longer period of times.
+
+Battery life is very good.",3,Positive,amazon,"{
+""Aspects"": [
+{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Noise cancellation"",
+""Weight"": 4
+},
+{
+""Aspect"": ""Comfort"",
+""Weight"": 2
+},
+{
+""Aspect"": ""Battery life"",
+""Weight"": 9
+}
+}","['Sound', 'Noise cancellation', 'Comfort', 'Battery life']"
+41,kaushik bagchi,Please compere with SAMSUNG GELEXY BUD 2 pro and AIRPOD PRO 2,Awesome anc,5,Positive,amazon,"{
+""Aspect"": ""Ancillary"",
+""Weight"": 8
+}",['Ancillary']
+42,Placeholder,QUALITY PRODUCTS,"ECONOMICAL,NICE QUALITY PRODUCTS",5,Positive,amazon,"{
+""Aspect"": ""ECONOMICAL"",
+""Weight"": 8
+}",['ECONOMICAL']
+43,veerinder pal singh,Average,Average,3,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Service"",
+""Weight"": 9
+}","['Quality', 'Service']"
+44,naveen,Ok for songs not for calls,This JBL is only for listening songs not for phone calls ..super song clarity but very poor call quality,2,Negative,amazon,"{
+""Aspect"": ""Call Quality"",
+""Weight"": 3
+
+}",['Call Quality']
+45,Amazon Customer,Comfort,Sab kuch sahi hai but agar comfort ki baat Karo toh nahi ek ghante se zyada lga hi nahi skte isko. Ek mahine ho gya liye hue but comfortable nahi lag rhe abhi bhi,3,Positive,amazon,"{
+""Aspect"": ""Comfort"",
+""Weight"": 8
+
+}",['Comfort']
+46,Uttam k.,Best sound,Bawal sound,5,Positive,amazon,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}",['Sound']
+47,HEMA INFRA,Not satisfied,Not working properly not at all satisfied,1,Negative,amazon,"{
+""Aspect"": ""Not working properly"",
+""Weight"": 8
+}",['Not working properly']
+48,Mohan Chaudhari,Signature sound....just go for it,Loved JBL,5,Positive,amazon,"{
+""Aspect"": ""Loved"",
+""Weight"": 10
+}",['Loved']
+49,Avinash,It's Amazing,"Everything is superb, only the case cap has low quality hing..it's feel loose all time and not feel premium.",4,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+
+}",['Quality']
+50,Amazon Customer,If love music don't buy Live!,"Music experience not as good as JBL Tune and no return/replacement by Amazon for this JBL Live pro 2. Not recommended for Music lovers, trust me. I have JBL Tune 115, which was best for Music.",1,Negative,amazon,"{
+""Aspect"": ""Music experience"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Return/replacement policy"",
+
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Recommendation"",
+
+""Weight"": 7
+
+}","['Sound', 'Return/replacement policy', 'Recommendation']"
+51,DEVENDRA H MHATRE,Good Sound and bass,I've order jbl live pro 2 tws os very awesome sound and food baattery life,4,Positive,amazon,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Battery Life"",
+
+""Weight"": 9
+}","['Sound', 'Battery Life']"
+52,Amazon Customer,Device reboots frequently. Also looses connection with the phone frequently.,"Device reboots frequently. Also looses connection with the phone frequently. Noise cancellation does not seem to be sufficient. Even with correct fit and Noise cancellation ""ON"", i can hear external noise quite well. Wondering whats so special in this to cost ~Rs.14000/-. The quality seems similar to headphones costing less than Rs.5000/-. I had high expectations considering the price tag and the brand name. But didnt find it worth.",3,Negative,amazon,"{
+""Aspect"": ""Device Reboots Frequently"",
+""Weight"": 7
+}
+{
+
+""Aspect"": ""Loses Connection with Phone Frequently"",
+
+""Weight"": 6
+
+}
+{
+
+""Aspect"": ""Noise Cancellation Insufficient"",
+
+""Weight"": 8
+
+}
+{
+
+""Aspect"": ""Quality Not Worthy of Price Tag"",
+
+""Weight"": 9
+
+}","['Device Reboots Frequently', 'Loses Connection with Phone Frequently', 'Noise Cancellation Insufficient', 'Quality Not Worthy of Price Tag']"
+53,Worst Mic,DON'T BUY,"Only Bass is Awesome
+Look - Premium
+
+Battery - Worst
+ANC Mic - Worst
+Gaming - Worst
+
+I want too return please pickup my product as soon as possible ð",2,Negative,amazon,"{
+""Aspect"": ""Look"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Premium"",
+""Weight"": 7
+}
+{
+""Aspect"": ""Battery"",
+""Weight"": 2
+}
+{
+""Aspect"": ""ANC Mic"",
+""Weight"": 3
+}
+{
+""Aspect"": ""Gaming"",
+""Weight"": 1
+}","['Look', 'Premium', 'Battery', 'ANC', 'Mic', 'Gaming']"
+54,Kashish,Worth every penny !,"Jbl does not disappoint ! No complaints as well for this purchase as well. If you are planning to go for it, pls go for it.",5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+
+}",['Quality']
+55,Bishnu das,Excellent,"Mind blowing sound clarity, battery charging is not good.",5,Positive,amazon,"{
+""Aspect"": ""Sound Clarity"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Battery Charging"",
+""Weight"": 3
+}","['Sound', 'Battery Charging']"
+56,HOZAIFA HAKIM,Amazing Buy,"Have used Samsung Buds Live, Buds Pro, Jabra T65Active, Apple Airpods, Boat amongst a few True wireless. These JBL are something different. I use it almost all thru the day in office many a times during my runs and have also used it while riding a bike and talking on the phone. The audio (incoming and outgoing) during calls is fabulous, the music sound is also too good",5,Positive,amazon,"{
+""Aspect"": ""Audio Quality"",
+""Weight"": 8}",['Sound']
+57,Placeholder,Very good product,Very good product,5,Positive,amazon,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8
+}",['Quality']
+58,Rahul Kumar,ANC is not upto the mark,"ANC is not working upto the mark, background noise cancellation is not happening during the call ð¤. Buds are not fitting properly into the ear. Really I don't like this product and there is no option to return the same.",1,Negative,amazon,"{
+""Aspect"": ""Product Not Meeting Expectations"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Fitting Issues"",
+
+""Weight"": 5
+
+}
+
+
+{
+
+""Aspect"": ""Background Noise Cancellation"",
+
+""Weight"": 7
+
+}","['Product Not Meeting Expectations', 'Fitting Issues', 'Background Noise Cancellation']"
+59,Very poor sound quality. I am unsatisfied with this sound quality & base quality.,Poor sound,Very Very poor sound & base quality. I am not satisfied with this quality.,1,Negative,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}",['Sound']
+60,Salil Dutta,Worth the price I paid,It's been 2 days since I got this. I am a bass head and I must say this didn't disappoint. The high and mids are crisp as well and the ANC and surround modes are just perfect. Although it can become a little uncomfortable to keep them on for longer hours however overall a brilliant experience. It was exactly what the doctor ordered for me!,5,Positive,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 6
+}","['Sound', 'Comfort']"
+61,Kishor Bhat,Best tws in this range,Good earphones as always from JBL,5,Positive,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}",['Sound']
+62,Pankaj,ðð»ðð»ðð»,Sound quality is awesome. When make full volume then not expected is felling less volume.,3,Positive,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Volume"",
+
+""Weight"": 2
+
+}","['Sound', 'Volume']"
+63,VINOD patil,Very bad product,Only in one month left earbud stopped charging and stopped working,2,Negative,amazon,"{
+""Aspect"": ""Battery Life"",
+""Weight"": 8
+}",['Battery Life']
+64,Jilani basha,Premium price budget experience ð¤­,"Fit was worst, sound quality OK fine, looks ð cool",3,Positive,amazon,"{
+""Aspect"": ""Fit"",
+""Weight"": 3
+}
+
+{
+""Aspect"": ""Sound Quality"",
+""Weight"": 7
+}
+
+{
+""Aspect"": ""Looks"",
+""Weight"": 9
+}","['Fit', 'Sound', 'Looks']"
+65,Placeholder,Dont buy,"Don not buy this product actually problem is level of sound is low and bass effect is not adquet at low valum, it will affect only when mobile volume get full, second noise cancellation not good.",2,Negative,amazon,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 7
+}
+
+{
+""Aspect"": ""Bass effect"",
+""Weight"": 3
+}
+
+{
+""Aspect"": ""Noise cancellation"",
+""Weight"": 4
+}","['Sound', 'Bass', 'Noise cancellation']"
+66,Niraj,JBL Pro 2,"The sound quality, ANC %, bass effect, fit, look are just too good!!! Worth buying!",5,Positive,amazon,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""ANC %"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Bass effect"",
+""Weight"": 7
+}
+
+{
+""Aspect"": ""Fit"",
+""Weight"": 6
+}
+
+{
+""Aspect"": ""Look"",
+""Weight"": 5
+}","['Sound', 'ANC', 'Bass', 'Fit', 'Look']"
+67,GV,Love it,"As an airline professional am exposed to high db levels. Must say the buds work well as ANC only buds also. Good battery life .
+Been with Sennheiser TW buds before., Had very less battery life. This one's way better. Recommended",5,Positive,amazon,"{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Battery Life"",
+""Weight"": 7
+}","['Noise Cancellation', 'Battery Life']"
+68,AMAR FAST FOOD,Superb,Nothing better then this,5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}",['Quality']
+69,Kaustubh,Not worth the price,"Product is good but not worth the price, at all.
+- Battery is not good enough as advertised; hardly lasts 2-2.5 hour.
+- Worst part is the 'JBL Headphones' mobile app.; the selected setting gets reset randomly, need location access each time to connect to earbuds, many a times the earbuds are not discovered, not much customisation possible.
+- ANC is poor; even lower range earbuds provide better ANC",1,Negative,amazon,"{
+""Aspect"": ""Product"",
+""Weight"": 3
+}
+{
+""Aspect"": ""Battery"",
+""Weight"": 7
+}
+{
+""Aspect"": ""JBL Headphones mobile app"",
+""Weight"": 6
+}
+{
+""Aspect"": ""Active Noise Cancellation (ANC)"",
+""Weight"": 4
+}","['Product', 'Battery', 'JBL Headphones mobile app', 'Active Noise Cancellation (ANC']"
+70,itishree raul,Bad product. Multiple issues,Such bad product,1,Negative,amazon,"{
+""Aspect"": ""Bad Product"",
+""Weight"": 8 }",['Bad Product']
+71,Vishal Golchha,"Glitches a lot, bad software",The software is buggy and disappointing in it's features. I wrote to JBL giving feedback but they didn't respond. The hardware seems to be great and the fit is flawless.,1,Negative,amazon,"{
+""Aspect"": ""Bugginess"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Disappointment with features"",
+
+""Weight"": 7
+
+}","['Bugginess', 'Disappointment with s']"
+72,Anurag,Excellent Product,One of the best TWS,5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}",['Quality']
+73,Sayikrishna,Anc,The anc is amazing,5,Positive,amazon,"{
+""Aspect"": ""Amazing"",
+""Weight"": 9
+}",['Amazing']
+74,Anmol Vaibhav,Sound Quality,Overall it is a very good purchase.,5,Positive,amazon,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}",['Quality']
+75,kulvinder singh,super,noise cancellation and environment cancellation sound quality battery life is to good,5,Positive,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}",['Sound']
+76,Himanshu,Better than Apple air pod pro,"It's very nice and meet all expectations. Silent call even at ludest place .
+Nice work JBL
+Superb ANC.",5,Positive,amazon,"{
+""Aspect"": ""Silent Call"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""ANC"",
+""Weight"": 9
+}","['Silent Call', 'ANC']"
+77,Suraj Sharma,Super product by JBL,"Great sound quality, but expensive. You will love it while using.",5,Positive,amazon,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}",['Sound']
+78,Anurag,Outstanding performance!,I impressed with the battery life per charge and sound quality is top level!,5,Positive,amazon,"{
+""Aspect"": ""Battery Life"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+}","['Battery Life', 'Sound']"
+79,Johns B.,Quality Product,Bit expensive but a good product.,5,Positive,amazon,"{
+""Aspect"": ""Product"",
+""Weight"": 8
+}",['Product']
+80,Mr James,Exception Ear Buds... JBL Live Pro 2 TWS,"First word out of my mouth when I put these in my ears was ""WOW""! Great fit and snug, hogh quality sound with great bass, noise cancelling is awesome, and the battery life is 40 hrs...holy cow, the best ear buds, hands down. The connection to my Samnsung phone was maybe 2 seconds..if that. From cycling to working out, these stayed in my ears and provided high quality sound. The charging case lid is held down with a magnet which i truly like over ones that pop open at anytine. Phone sound to and from someone is clear and understandable. I highly recommend these as I will be getting another pair for my wife....that's how much we like them. I can assure you these are in my ears everyday and are my go to ear buds!",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Fit and snug"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Bass"",
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Noise cancelling"",
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Battery life"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Connection to phone"",
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Charging case lid"",
+""Weight"": 6
+
+}
+
+{
+
+""Aspect"": ""Overall recommendation"",
+""Weight"": 9
+
+}","['Sound', 'Fit and snug', 'Bass', 'Noise Cancellation', 'Battery life', 'Connection to phone', 'Charging case lid', 'Overall recommendation']"
+81,I love music,Live Pro 2,"Jbl is on top of their game when it come to earbuds, but they did a great job with this one .The JBL Live Pro 2 are feature pack with all of the high end up to date technology packed into this  little earbud they have wireless charging also adaptive noise canceling. They connect pretty fast ,as soon as I took them out of the case they popped up on my phone . Then I downloaded the JBL headphones app which you would need to get the best from these earbuds. They have decent sound,I just wish sometime the volume would go a little higher , but I guess thatâs good to save my hearing.You can also use one earbud at a time the left and right earbud work independently, you can also connect to multiple devices.",4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Technology"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Wireless Charging"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Noise Canceling"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Connectivity"",
+
+""Weight"": 7
+
+}","['Sound', 'Technology', 'Wireless Charging', 'Noise Cancellation', 'Connectivity']"
+82,Intruder,"Awesome Sound, Size and Style",Love the sound and the fit! I have issues with other ear pods to fit with these they come with different ear bud cones sizes so perfect. The sound is awesome and reason for the 4 star is I would have liked them to have more BASS. Touch controls amazing! Tap then double tap for operations. Easy set up with the app and the charging case very compact and stylish. Definitely recommend!,4,Positive,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Fit"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Bass"",
+
+""Weight"": 6
+
+}","['Sound', 'Fit', 'Bass']"
+83,Sabo 1,High quality of sound and hardware,"Bought them yesterday and to be honest theyâre much better than I expected this is my first jbl product and I can absolutely recommend it to anybody who wants to buy it, the hardware quality is high and it fits perfect in the ears. I compared it to my other earbuds too and the jbl live pro 2 sounds much better.",5,Positive,jbl,"{
+""Aspect"": ""Hardware Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Fit"",
+
+""Weight"": 9
+
+}","['Hardware Quality', 'Fit']"
+84,drbll,Top quality earbuds,"Not sure how they did it, but these are the nicest earbuds I have had.  Of course the JBL sound is amazing, that is a given.  The ease of use and the app make these my favorites.  Using the check my fit feature, I changed the rubbers to the large size and they fit securely and sound great with a good seal.  The black chrome accents look good and match my car nicely.  The case is smaller than most, which I hope I don't loose it, but the app has a finder feature.",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Ease of Use"",
+
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""App Features"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Fit and Seal"",
+
+""Weight"": 6
+
+}
+
+{
+
+""Aspect"": ""Aesthetics"",
+
+""Weight"": 5
+
+}","['Sound', 'Ease of Use', 'App s', 'Fit and Seal', 'Aesthetics']"
+85,TDTechOfficial,Outstanding All Around Product!,"Strait out of the box, the setup is very strait forward and easy. Downloading the app to adjust settings with ease and creating a custom equalizer to achieve a perfect sound is super easy to do. The JBL Live Pro 2 provide a great, clean and crisp sound. The signature JBL sound is very alive with these earbuds. The sound signature of these earbuds is very enjoyable. Good low notes with crisp highs and prominent mids. 
+Packaging is organized and give a great presentation.
+
+Overall these are one of the best sounding and most portable high quality earbuds out there. I highly recommend these.",5,Positive,jbl,"{
+""Aspect"": ""Ease of use"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Packaging"",
+""Weight"": 7
+}","['Ease of use', 'Sound', 'Packaging']"
+86,ThatGuyYouKnow,Blown away by the improvements,"So I have a pair of the JBL Live Pro + headphones. They have been my everyday earbuds since I got them and I was super happy with them minus a couple exceptions. When I saw the Live Pro 2, I knew I had to get a pair and try them out. I wanted to see what was changed. I loved the sound of the Pro + but the Pro 2  sound even better. Now switching between the two, I can hear much better mids and highs than the Pro+. Even the bass is better on the Pro2, which I honestly didn't expect since the Pro+ had very good bass. I was also pleasantly surprised how much better they fit in my ears. The Pro+ were fine and I didn't have any fit issues at all but the Pro2 seem to just stick in my ears. When I shake my head they don't move at all. 
+Another improvement that I noticed and really love is when using a gesture to switch between Active Noise Canceling, Ambient Aware, and TalkThru. The Pro+ would just beep and you would have to know which one you switched to. While this isn't a huge issue it made it sometimes difficult to tell. Now with the Pro2 you get voice feedback after switching between the different settings. The voice prompts can all be changed in the app to a handful of different languages or just off if you don't want it.  The gestures also were slightly updated, where now I can have my favorite assistant as a hold and still be able to skip, play/pause songs. This wasn't possible with the Pro+ as using an assistant used up all the gestures on the ear bud for the assistant. 
+The JBL app also got a nice visual upgrade for these earbuds and some new features. There is now a VoiceAware slider so you can adjust the amount of your voice you hear on phone calls. There is also more settings to customize the ANC which is nice. 
+The only thing I was hesitant on was the color. I usually get black but this time I got the blue. I'm happy I did, they look really sharp.
+Overall, I'm really happy with these. They fit great, have awesome sound and have an even longer battery life. I can finally use them for a full day of work. I tend to listen to music or I'm always in some meeting or call for work. So I tend to have these in for close to 8 hours on a work day. It's nice not having to charge them during my lunch break in order for them to last the rest of the day. 
+I can't recommend these enough, Great Product.",5,Positive,jbl,"{
+""Aspects"": [""Sound"", ""Fit"", ""Gesture"", ""Voice Prompts"", ""Battery Life""],
+""Weight"": [8, 7, 6, 5, 4]
+}","[""Sound"", ""Fit"", ""Gesture"", ""Voice Prompts"", ""Battery Life""]"
+87,RipSpeed,Great pair of earbuds,"Absolutely in love with these earbuds! First of all they keep the charge really well which is very important for me,and charges quickly in the charging box. Sound quality is great,very good noise canceling. Came packed appealing to the eye. I can use them both or take just one for use,really convenient. Bluetooth pairing is top noch every time,pairs effortlessly,good Bluetooth range. Overall really happy with these gems",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise canceling"",
+
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Convenience"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Bluetooth range"",
+
+""Weight"": 6
+
+}","['Sound', 'Noise Cancellation', 'Convenience', 'Bluetooth range']"
+88,Elimel,Great All Around and Versatile,"These headphones are great! I have had multiple pairs of airbud-style headphones and these are by far the best pair! First of all, these are truly noise canceling. I am able to have a normal conversation without cranking the volume all the way up. They are also great for just kicking back and relaxing. The quality is amazing. They pair up the first time on my iPhone, The only issue I am having is they tend to fall out. I have tried multiple sizes of the included ear tips but they still tend to fall out after a little while. The bottom line is great a pair of headphones for avid listeners to serious business-minded professionals who make tons of calls daily.",4,Positive,jbl,"{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Fit"",
+
+""Weight"": 4
+
+}","['Noise Cancellation', 'Fit']"
+89,prjio307,"Great Buds, Lots of Features, Subpar Mic","These headphones are wonderful if you are someone looking for high quality sound for music and movies/videos. For content consumption, these are some of the best sounding earbuds in this price point, and they honestly punch above their price point in terms of sound quality. 
+
+However, if you are someone looking for great call quality for business calls, these are not it. Thatâs not to say that the mic is terrible, because itâs not. Itâs just not up to par when it comes to blocking our background noise. 
+
+Sound quality: excellent, 5/5 in my opinion here. Highly customizable with EQ and app features. You can really fine tune the EQ across a wide range of frequencies. 
+
+Comfort: again, excellent, 5/5. These are the most comfortable earbuds that Iâve worn in a long time. I forget they are in!
+
+Noise cancellation: very good, 4/5. Excellent noise cancellation for this price point, but itâs not the best of the best. The noise cancellation is also customizable via the app and tunes itself to your surroundings and your ear shape. Cool stuff! I found that this did make a difference once I did this in the app. 
+
+Ambient mode: excellent, 5/5. Conversations sound natural, like youâre not wearing anything. This is also customizable in the app as far as how much ambient sound you want to let in. Good stuff. 
+
+Style: subjective. The buds speak for themselves but I find them to be very stylish! The color options are awesome and the blue color is stunning. 
+
+Charging case & Battery life: this little case is awesome. 5/5 It packs 30 total hours of charge and charges FAST. Both the earbuds and the case charge very fast and last a LONG time. Much longer than other earbuds I have used. I can get through a whole workday just fine, with room to breathe. 5/5 for battery life. 
+
+Features: oh boy - 5/5 for sure. Extensive EQ options, a video mode for lip syncing (not an issue for me, even in audio mode, but itâs nice to have!), talk through, customizable ambient mode, noise cancellation tuning, the list just goes on. These are very feature rich and customizable.
+
+Connectivity: excellent 5/5. These paired up quickly and reconnect INSTANTLY when taking them out of the case. You can also use either earbuds independently of the other. 
+
+The app: 5/5, very easy to use! Straightforward and easy to jump in and start tweaking to your liking. 
+
+Call quality: hereâs where we run into some not so great. 2/5 here in my opinion. To be fair, folks I tested calls with told me they could hear me loudly, however I sounded a bit muffled and they could hear EVERYTHING in the background. They said it sounded like I was on speakerphone and they could hear all of my surroundings. In a quiet environment, it was fine, but in even a lightly noisy environment, these did not perform well. These are fine for calls when you are in a pinch, but I wouldnât buy them for this purpose. 
+
+Overall, these are an awesome set of earbuds. Iâm very happy to see how far we have come in terms of truly wireless earbuds. The future is bright and I would recommend these buds to anyone looking for excellent sound quality, great noise cancellation, comfort, style, and features!",4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 5 }
+
+{
+""Aspect"": ""Comfort"",
+""Weight"": 5 }
+
+
+{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 4 }
+
+
+{
+""Aspect"": ""Ambient Mode"",
+""Weight"": 5 }
+
+
+{
+""Aspect"": ""Features"",
+""Weight"": 5 }
+
+
+
+{
+""Aspect"": ""Connectivity"",
+""Weight"": 5 }
+
+
+
+{
+""Aspect"": ""Call Quality"",
+""Weight"": 2 }","['Sound', 'Comfort', 'Noise Cancellation', 'Ambient Mode', 's', 'Connectivity', 'Call Quality']"
+90,,The active noise cancellation is very efficient!,"I used to be sceptical about wireless earphones but these JBL earbuds changed my mind. The sound quality and bass depth is amazing. They are very comfortable and you do not really feel them even after a few hours of continuous use. At the same time they hold themselves in place securely. Even when exercising or running there is no need to re-insert or re-adjust them. The active noise cancellation is very efficient and its additional settings make it even more useful. The JBL app gives access to all the settings yet it is simple, logic and easy to use. The case looks good but the lid is a little wobbly both when opened and closed. Overall, I highly and sincerely recommend it :)",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+}
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 8
+
+}
+{
+
+""Aspect"": ""Security"",
+
+""Weight"": 7
+
+}
+{
+
+""Aspect"": ""Noise Cancellation"",
+
+""Weight"": 9
+
+}
+{
+
+""Aspect"": ""App Interface"",
+
+""Weight"": 8
+
+}
+{
+
+""Aspect"": ""Case Design"",
+
+""Weight"": 6
+
+}","['Sound', 'Comfort', 'Security', 'Noise Cancellation', 'App Interface', 'Case Design']"
+91,EricGCWI,My New Favorite buds,"I love these ear buds. I wish I could go back and give a slightly lesser review to some other buds I've had lol. The sound on these is great, deep bass sound and a rich atmosphere altogether. I love the low profile of these to your head. I drive a scooter and have problems with either volume, or wind noise from resistance on previous ear buds, but not with these! The sound cancelling is phenomenal. Just try being next to something loud, then turn it on and off, you'll notice a significant difference. The functionality is the same as other JBL products, easy tapping on either side for the functions you require. They paired immediately without a hitch and continue to pair every time I turn them on, zero hassles. The battery hasn't died on me yet from the initial charge, I've used them for probably close to an hour so far on rides and runs. They stay in really well and I don't get anxious about them falling out during activities.",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9 }
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 8 }","['Sound', 'Comfort']"
+92,B_parky,Find my bud. Doesnât work,I bought this product ilast November.  The sound is very good as expected. My other reason for buying is the fantastic battery life. Unfortunately I lost one of my buds in long grass but I was confident it wouldnât be a problem because of the âfind my bud feature. I contacted support as I couldnât get it to work and their reply was I had to put the lost bud in the case for the feature to work. Wow. Thatâs some kind of a crazy feature. I then asked if I could buy a replacement ear bud as the find my bud feature doesnât work and I would prefer not to throw out what I have left. The response from support. No you have to purchase a new set.,2,Negative,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 9
+
+}
+{
+
+""Aspect"": ""Find my bud feature"",
+
+""Weight"": 1
+
+}","['Sound', 'Battery life', 'Find my bud ']"
+93,4NDR34S_TR0Y,Amazing sound for a great value,"The JBL Live Pro 2 true wireless earbuds are a bass-lover's dream, offering an impressive audio experience alongside several noteworthy features.
+
+Adaptive Noise Cancellation: With adaptive noise cancellation, these earbuds allow you to escape into your music with minimal disruptions. Whether you're in a noisy office or a bustling cafe, the ANC feature ensures that you enjoy your tunes without external interference.
+
+Extended Battery Life: The 40 hours of total battery is outstanding. You can use these earbuds throughout the day without worrying about running out of power. The ability to provide 10 hours of continuous playback on a single charge is particularly remarkable.
+
+Bass-Heavy Sound: For those who appreciate bass-heavy music, the JBL Live Pro 2 delivers a rich and powerful bass experience. These earbuds are tailored for deep, thumping bass, making them ideal for genres like hip-hop and electronic music.
+
+These earbuds are a fantastic choice for audiophiles who enjoy bass-heavy genres, and the combination of adaptive noise cancellation and an extended battery life ensures that you can immerse yourself in your music for hours on end. Whether you're a commuter or just a music enthusiast, the JBL Live Pro 2 earbuds are designed to enhance your listening experience.",5,Positive,jbl,"{
+""Aspect"": ""Bass-Heavy Sound"",
+""Weight"": 8 }
+
+{
+""Aspect"": ""Adaptive Noise Cancellation"",
+""Weight"": 9 }
+
+{
+""Aspect"": ""Extended Battery Life"",
+""Weight"": 7 }","['Bass', 'Noise Cancellation', 'Battery Life']"
+94,brandon687,Great vocals and sound clarity,Overall I would recommend these headphones to anyone that goes to the gym or is busy and on the go they are easy to use and the connectivity is some of the best I have seen and used. The sound quality is crystal clear and itâs easy to hear and understand things or the vocals coming from the artist. The only reason I did not rate this as 5 stars is because the bass is lacking and I feel like the drivers could be bigger.,4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Ease of Use"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Connectivity"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Bass"",
+
+""Weight"": 4
+
+}","['Sound', 'Ease of Use', 'Connectivity', 'Bass']"
+95,Glamourna,Good quality earbuds,"I bought the JBL earbuds about a month ago and let me tell you that I've been super content with them. The quality is supreme,very comfortable to wear them, i love the noise cancelling feature, the sound is superb, very clear and everything is on point. I have been very impressed about the battery life as well, lasts so much longer than the other leading brands.",5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Noise Cancelling Feature"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Sound Quality"",
+
+
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Battery Life"",
+
+
+""Weight"": 8
+
+}","['Quality', 'Comfort', 'Noise Cancellation', 'Sound', 'Battery Life']"
+96,JaeRaid,Was good till it wasn't...,"Honestly I do not recommend this 
+
+I loved this earbuds when I first bought them. Perfect sound. Perfect noise cancellation feature. Basically they were worthy of their steep price... Till they weren't.
+
+After 6 months they simply stopped working properly. No warning, they never fell or were damaged. The case can not hold charge and they continue playing even when in the case. This means they are always on hence draining battery of the earbuds and the case. Because of all this drama, I have to connect them to my phone while the case is on charge.... 
+
+Basically I'm too frustrated, having to buy another pair from another brand.",1,Negative,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Noise cancellation"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Durability"",
+""Weight"": 6
+}
+
+{
+""Aspect"": ""Battery life"",
+""Weight"": 7
+}","['Sound', 'Noise cancellation', 'Durability', 'Battery life']"
+97,Kathy2812,"Great sound, easy handling!","I use the headphones for over a week now as a testing product and I love them. They are my regularly companions at my dog walks. I love to hear audio books during my walks. The sound is brilliant. I live it that you can switch out ambient sounds, so that you just hear the audio book or the current song. Great quality. 
+Iâm very astonished about the good quality at phone calls. The microphone is very clearly and sensitive. So phone calls are can be made at good quality. 
+The operation is very easy. Just on or two short clicks or a long Click at the headphones. 
+The installation was also very simple by using the JBL App.",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Ease of use"",
+
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Microphone quality"",
+
+""Weight"": 7
+}
+
+{
+
+""Aspect"": ""Installation"",
+
+""Weight"": 6
+}","['Sound', 'Ease of use', 'Mic', 'Installation']"
+98,Mrsheen,Not Happy,"Bought these to replace my Live Pro + I lost.
+Only comes with 3 buds.
+Customer service couldn't tell me the sizes before I purchased them.
+I'm an xl JBL not sure if times are tough but you should have included the extra tips like in the + version.For the price you should have included it I had to buy aftermarket tips at an extra cost.
+Also I'm.suprised you don't have a safe volume option and spacial sound.
+Maybe there could be a firmware update.",3,Negative,jbl,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 6
+}
+{
+""Aspect"": ""Customer Service"",
+""Weight"": 4
+}
+{
+""Aspect"": ""Inclusions"",
+""Weight"": 7
+}
+{
+""Aspect"": ""Value for Money"",
+""Weight"": 8
+}","['Quality', 'Customer Service', 'Inclusions', 'Value for Money']"
+99,taro,Good sound quality and battery life,"The sound quality has been the strength for me in the base response in different modes.  Good to stay connected with exception of in phone calls over 30 minutes, there are intermittent half a second pause in audio (but the person on the app the other end of the phone call stated they perceive no pause in the microphone transmission.) The ANC is effective but not as good in filter out medium frequency hums than the Bose headset that I have to compare it to.  The fit is adequate but for my ear cannel after 4 hours of wearing does give me some ear ache.  This could be just a price to pay for a good seal for the ANC.  To give the context I am using an iOS device with the Live Pro 2.",4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""ANC Effectiveness"",
+
+""Weight"": 6
+
+}
+
+
+{
+
+""Aspect"": ""Fit"",
+
+
+""Weight"": 4
+
+
+}
+
+
+{
+
+""Aspect"": ""Ear Comfort"",
+
+
+""Weight"": 2
+
+
+}","['Sound', 'ANC Effectiveness', 'Fit', 'Ear Comfort']"
+100,fayhope,New Favorite,Oh my gosh! These are my new favorite! These earphones are so comfortable and do not fall out. They sound they put out is absolutely amazing. I don't have to worry if it's raining outside because thankfully they are water resistant which is really good because I live in an area when you never know if you will get caught in a storm. They were easy to switch from on device to another and that is so helpful. The charge seems to last forever.,5,Positive,jbl,"{
+""Aspect"": ""Comfort"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Water resistance"",
+""Weight"": 7
+}
+{
+""Aspect"": ""Ease of use"",
+""Weight"": 6
+}","['Comfort', 'Sound', 'Water resistance', 'Ease of use']"
+101,JD Ford,JBL got these right !,Wow JBL got these right!  The Live Pro 2 ear buds are truly amazing.  First the sound is incredibly full and has bass along with clarity.  They are excellent in noise cancelling the outside world.  I have used them mowing grass and I don't hear the mower just the music which is awesome.  I have wore these for several hours at a time and they are very comfortable in the ear and sweat does not seem to bother them.  They hold a charge well too for at least six hours at high volume.  These connected quickly to my phone and stayed connected so no issues with bluetooth.  I have owned many different ear buds and I have to say these are my favorite for sure.  I highly recommend them to anyone looking for excellent fullness with bass and clarity in their music.  These things do not disappoint so go ahead and buy you some they are a tremendous value for the sound quality.,5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9 }",['Sound']
+102,boudreaux,Better than expected! Great color!,The JBL Live Pro 2 TWS were even better than I expected and I always expect JBL to be fabulous! The color is amazing and the sound is crystal clear. These earphones stay charged 10 hours and get to a 2 hour charge in just 15 minutes so if you need a quick charge for a run it is just perfect. I use them for calls and listening to music and they work great for both. They are so comfortable to wear and stay put. I love these!,5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Design"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 6
+
+}","['Sound', 'Design', 'Battery life', 'Comfort']"
+103,Martyna1984,Great earbuds,"Overall JBL Live Pro 2 are great earphones. They were super easy and quick to connect to my iphone 12 - it took seconds. The sound quality is very good - I was very impressed actually. The noise cancelling is also pretty good. It definitely did irs job well on my recent flight full of noisy people! I could not hear a thing apart from my music. I like the charging case and the fact that it has lights that indicate the battery level. The fact that it closes with a magnet is also great; it feels that the earbuds are securely stored in the case. The product comes with 3 different size rubber caps that fit on the end of each earphone. Unfortunately I haven't been able to work out which size is best for me yet as the earbuds still fall out of my ears every now and again, especially during physical activity (gym). So this is something that I need to work on and figure out the best fit - hence my score of 4 stars",4,Positive,jbl,"{
+""Aspect"": ""Ease of use"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Sound quality"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Noise cancelling"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Fit"",
+
+""Weight"": 4
+
+}","['Ease of use', 'Sound', 'Noise Cancellation', 'Fit']"
+104,MikeD90,Blown away,So I have gone through many earbuds and Iâm very picky with fitment as I have small ears but theses are hands down the most comfortable Iâve had and the audio is insane using the equalizer on the app the bass hits hard and clear and crisp I highly recommend these to anyone who wants quality earbuds with amazing sound,5,Positive,jbl,"{
+""Aspect"": ""Comfort"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Sound Quality"",
+
+""Weight"": 8
+
+}","['Comfort', 'Sound']"
+105,JBlongz,Best ear buds I have  used.,Amazing sound for such a compact device.  The bass is clear and noise cancellation blocks external noise really well. I canât her my noisy air conditioner between songs. The case is sleek and magnetically grips your buds. The charging progress indicator lights on the case is a convenient feature. Highly recommended.,5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise cancellation"",
+
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Design and build quality"",
+
+""Weight"": 7
+}","['Sound', 'Noise cancellation', 'Design', 'Quality']"
+106,Diller,A big disappointment,"They didn't last a year. I loved them when they worked., but they have more issues than Time Magazine. I love JBL, but I will not buy any ear buds from them ever again. They don't carge correctly. They take 10 minutes to turn on. I troubleshoot and troubleshoot them almost every time I used them, I issues everysingletime i use them. Today i went to use them and 1 is 100%  and the other is 10% charged. I contacted JBL, sent in my information, they did nothing to cover their product. Soil will try different brand. This is ridiculous cause they are not used everyday, maybe twice a week.",2,Negative,jbl,"{
+""Aspect"": ""Lasted"",
+""Weight"": 2
+}
+{
+
+""Aspect"": ""Issues"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Charging"",
+""Weight"": 4
+}
+{
+
+""Aspect"": ""Troubleshooting"",
+""Weight"": 6
+}
+{
+
+""Aspect"": ""Customer Service"",
+""Weight"": 5
+}","['Lasted', 'Issues', 'Charging', 'Troubleshooting', 'Customer Service']"
+107,Jeremy22,Outer space tank,"Iâve had these earbuds for about a year now and I think they deserve a review. I lost my left earbud for a month one time and had no idea where it went. Turns out I dropped it outside to my surprise I plug it back in and it works perfectly! With me mowing over it, rain and  cold temps it kept all its high tech features. This is as about 3 months ago and it still worksâ¦ Just an amazing product!",5,Positive,jbl,"{
+""Aspect"": ""Durability"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Lost & Found"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Water Resistance"",
+
+""Weight"": 7
+
+}","['Durability', 'Water Resistance']"
+108,JBL stan,Absolutely abysmal piece of garbage,"I've been using these as a daily driver for 8 months now and they do have some good features (solid battery life and compact case), but also some horrible design flaws- such as the voice control that constantly turns on unprompted and will call random contacts without any noise in the room whatsoever... This leads to many awkward situations as one could imagine. The touch sensitivity of the earbuds is WAY too sensitive. I wish JBL would stick to refining just a few models of earbuds instead of releasing tons of mid tier ones.",1,Negative,jbl,"{
+""Aspect"": ""Design Flaws"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Voice Control"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Touch Sensitivity"",
+
+""Weight"": 6
+
+}","['Design Flaws', 'Voice Control', 'Touch Sensitivity']"
+109,Jaqueline87,Wow! Amazing sound and very nice look!,"I was very suprised by unboxing my package.
+The In-Ears look very beautiful. The charging box has a very smooth touch, it lies well in the hand. The three lit bars indicate the battery status. So you can see very easiliy if you have to charge. 
+The In-Ears fit perfectly in my ears. I'm not afraid to losing them.
+And now to the sound: WOW! Clear and great sound. Noice cancelling is working very good. You can adjust the sound in the app until you find the perfect sound for you.
+I've used samsung in-ears in the past. I have to say that these are significantly better. I love JBL.",5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Functionality"",
+
+""Weight"": 9
+
+}
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 7
+
+}
+{
+
+""Aspect"": ""Noise Cancellation"",
+
+""Weight"": 9
+
+}","['Design', 'Functionality', 'Comfort', 'Noise Cancellation']"
+110,Raichu,"Ok hardware, horrible firware/software updates","I've had these for almost a year and each software update makes the earbuds worse. 
+
+They have great potential but the software is horrible.
+
+The most recent firmware update makes multipoint audio completely useless.
+
+Both devices will connect but audio will only play from the device that connected first.
+
+You will have to manually turn Bluetooth on that device off to recieve audio from the 2nd device.
+
+Headphones randomly pause themselves while audio is playing. 
+
+None of the included ear tips fit correctly causing the earbuda to fall out of the ear constantly making anc useless.
+
+Aftermarket ear tips would typically solves this but because of the oval shaped audio drivers most aftermarket eartips do not fit correctly.",2,Negative,jbl,"{
+""Aspect"": ""Software Quality"",
+""Weight"": 8 }
+
+{
+""Aspect"": ""Hardware Fit"",
+""Weight"": 6 }
+
+{
+""Aspect"": ""Multipoint Audio"",
+""Weight"": 4 }
+
+{
+""Aspect"": ""Random Pause"",
+""Weight"": 5 }
+
+{
+""Aspect"": ""Included Ear Tips"",
+""Weight"": 3 }","['Software Quality', 'Hardware Fit', 'Multipoint Sound', 'Random Pause', 'Included Ear Tips']"
+111,sonofdavid,Excellent quality earbuds with 2 flaws,I just received these today and the audio is wonderful but I wish there was a 3d audio option like the lg fp8 has. Anc is good and transparency is good as well. The 2 flaws are that the app sometimes will not respond to my taps to enter the earbud option/adjustment screen so I'm stuck tapping on the screen until it finally opens up the options screen. Second flaw is a deal breaker for me (jbl correct me if I'm mistaken) and it is that I cannot turn the Anc on and off with earbud gestures  while on a phone call! I have to open up the app and do it there on my phone. I really love the look of these and their quality audio but unless these things change I will be sending them back and keeping the Lg fp8s.,3,Negative,jbl,"{
+""Aspect"": ""Audio Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""3D Audio Option"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""App Functionality"",
+
+""Weight"": 4
+
+}
+
+
+{
+
+""Aspect"": ""ANC and Transparency"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Earbud Gestures"",
+
+""Weight"": 6
+
+}
+
+
+{
+
+""Aspect"": ""Phone Call Functionality"",
+
+""Weight"": 3
+
+}","['Sound', '3D Sound Option', 'App Functionality', 'ANC and Transparency', 'Earbud Gestures', 'Phone Call Functionality']"
+112,Abdur 1982,Better than Apple or Bose headphones!,"Excellent quality headphones. Way better than Apple headphones and costs significantly less,",5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 8 }",['Quality']
+113,Lilposs72,"Great value, great sound and performanceð",So happy with my new JBLâs!! My new go-to earbudsð,5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+
+}",['Quality']
+114,nonameMK,JBL Live Pro 2 TWS,"I've been wanting to change out my wireless headphones for a while, and this particular model provides excellent music quality and all-day comfort. I was pleasantly surprised by the JBL Live Pro 2 TWS headphones, and I can say with certainty that they are among the best true wireless headphones on the market. The JBL Live Pro 2's audio output is simply exceptional. The headphones delivered a well-balanced and interesting sound when I listened to several musical genres. Active noise cancellation (ANC) is a feature that I especially appreciate. When ANC is turned on, background noise is efficiently eliminated, allowing me to focus solely on the music without interruptions. The several eartip options supplied with the JBL Live Pro 2 ensure an ideal fit. I wear the medium ones, and they are not uncomfortable to wear for extended periods of time. With ANC enabled, the headphones' playback time is roughly 9 hours; however, it can be increased to 30 hours by utilising the charging case. The JBL Live Pro 2 has a silky, modern aesthetic look. Bluetooth pairing is fast and stable, and I encountered no latency issues when listening to music or watching videos. The JBL Live Pro 2 TWS headphones are outstanding, to put it simply. All music lovers and those seeking true wireless headphones with high-quality audio should definitely consider these.",5,Positive,jbl,"{
+""Aspect"": ""Audio Quality"",
+""Weight"": 9 }
+
+{
+""Aspect"": ""Comfort"",
+""Weight"": 8 }","['Sound', 'Comfort']"
+115,Agent Singh,Impressive Sound and ANC for the Price,"With crisp audio and a secure fit, the JBL Live Pro 2 earbuds deliver an impressive wireless listening experience. Their stylish and lightweight design makes them comfortable to wear for hours on end. The 11mm dynamic drivers produce bold, balanced sound with plenty of detail in the mids and highs. Bass lovers will appreciate the punchy low end, though it could be tighter and more accurate for critical listening. 
+
+Active noise cancellation effectively blocks out ambient noise, with three modes to choose from depending on your surroundings. This makes the Live Pro 2 great for commuting or working in noisy environments. The six microphones pick up your voice clearly for phone calls too. 
+
+Battery life is a highlight, lasting around 10 hours per charge with ANC on or 40 hours with the included charging case. The case provides multiple extra charges and has a nice compact shape. Quick charging gives you an hour of use from just 10 minutes in the case. 
+
+Operation is smooth and intuitive with touch controls that are responsive yet resistant to accidental brushes. The JBL Headphones app unlocks customization options like EQ presets and Find My Buds. One minor downside is the large physical buttons, which press against your ear sometimes.
+
+For around Â£125, the JBL Live Pro 2 deliver strong wireless sound and noise cancellation at a reasonable price point. Audiophiles may want more fidelity, but for everyday listening on the go, the Live Pro 2 get the job done very well. Their impressive battery life and lively sound make them easy to recommend.",5,Positive,jbl,"{
+""Aspects"": [""Crisp audio"", ""Secure fit"", ""Stylish design"", ""Lightweight"", ""Bold sound"", ""Balanced midrange"", ""Punchy bass"", ""Effective noise cancellation"", ""Clear voice pickup"", ""Long battery life""],
+""Weight"": 8.5 }","[""Sound"", ""Fit"", ""Design"", ""Weight"", ""Bold sound"", ""Balanced midrange"", ""Bass"", ""Noise cancellation"", ""Sound"", ""Battery life""]"
+116,knightlids,Great balance of performance and size,"Great sound, and perfect form factor. I've tried a few of JBL's soundbuds now and I think these are the perfect balance of features and performance. 
+
+Enough bass, great clarify, the microphones seem to work well enough for calls, and the case isn't too bulky. I find that many earbud cases are just too big and the wrong shape to go in pockets. These are really good though for that, and stay closed. 
+
+The noise cancelling works really well too, though like with all NC headphones and earbuds I've tried, it doesn't work when it's windy - the microphones end up picking up the wind noise and producing strange sounds to counteract it.",5,Positive,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Form factor"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Bass"",
+
+""Weight"": 6
+
+}
+
+{
+
+""Aspect"": ""Microphone quality"",
+
+""Weight"": 5
+
+}
+
+{
+
+""Aspect"": ""Noise cancelling"",
+
+""Weight"": 4
+
+}
+
+{
+
+""Aspect"": ""Case size"",
+
+""Weight"": 3
+
+}","['Sound', 'Form factor', 'Bass', 'Mic', 'Noise Cancellation', 'Case size']"
+117,MrsSKaur,Decent for casual listening,"The JBL Live Pro 2 TWS headphones are decent for casual listening but have some flaws that prevent them from being great. The sound quality is pretty good, with emphasized bass and good clarity in the mids and highs. The active noise cancellation works okay in reducing low-end noise but isn't as effective against voices and higher frequencies. The design is comfortable for short periods but can cause ear fatigue during longer listening sessions. The touch controls are responsive but take some getting used to. Battery life is about 5 hours with ANC on, which is average but requires frequent recharging. Overall, the JBL Live Pro 2 headphones work well for commute and gym use but aren't versatile enough for all-day wear. At their price point, there are other options that offer better noise cancellation, comfort and battery life. They're fine for casual use but serious audiophiles may want to consider other headphones in this price range.",3,Negative,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Active Noise Cancellation"",
+
+""Weight"": 6
+
+}
+
+{
+
+""Aspect"": ""Design Comfort"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Touch Controls"",
+
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Battery Life"",
+
+""Weight"": 4
+
+}
+
+{
+
+""Aspect"": ""Versatility"",
+
+""Weight"": 2
+
+}","['Sound', 'Active Noise Cancellation', 'Design Comfort', 'Touch Controls', 'Battery Life', 'Versatility']"
+118,Meghan,Amazing ear buds with minor draw backs!!,"Overall I am loving these wireless ear buds! When I first received them I liked the compact design and case felt well built. The compact case is definitely a sleek design. But because the case is more flat instead of tall, I found opening the case was a bit tricky and a 2 handed operation. The sound quality is amazing with good bass and an overall clear sound. I did find that after extended use, the plastic portion (not the rubber changeable part) of the ear buds did seem a bit too big in my ear and felt slightly uncomfortable but they stayed in my ear better than other ear bud designs. The noise canceling from these are amazing. Standing next to my washing matching while it was running sounded completely silent with ear buds in and no music playing while connected to my phone.",5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Ease of use"",
+
+""Weight"": 7
+
+}
+{
+
+""Aspect"": ""Sound quality"",
+
+""Weight"": 9
+
+}
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 6
+
+}
+{
+
+""Aspect"": ""Noise cancelation"",
+
+""Weight"": 10
+
+}","['Design', 'Ease of use', 'Sound', 'Comfort', 'Noise cancelation']"
+119,Veeee,Surprisingly Great,"I bought these after reading the What HiFi review. In these ear buds, JBL have created seemingly high quality buds that sound amazing and made from quality materials all at a very reasonable price. The pebble like case is small and slick in design, and looks better than other well known brands. In the ear, these look smart and not bulky which suits me with my small ears! The sound is as good as What HiFi says, I'm enjoying bass and treble without any harshness whatsoever.",5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Design"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Price"",
+
+""Weight"": 7
+
+}","['Quality', 'Design', 'Price']"
+120,supersonic88,"Super comfy, great battery life, sound is great","These are super comfortable to wear for hours, it has a good seal and it is very lightweight. There is no ear fatigue after using this. 
+
+The batteries last for hours on end and I am also a fan of the 15 minute quick charge. 
+
+The size of the case is nice and small. I think I would have preferred the case to be wider to get it flatter so it fits in the pocket better but that is me nick picking.
+
+The sound quality overall is great, the EQ is a nice addition but the noise cancelling isn't worth using; it naturally blocks out most background noise already and there is very little difference between it on or off.",4,Positive,jbl,"{
+""Aspect"": ""Comfort"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Battery Life"",
+""Weight"": 7
+}
+{
+""Aspect"": ""Noise Cancelling"",
+""Weight"": 6
+}","['Comfort', 'Sound', 'Battery Life', 'Noise Cancellation']"
+121,Kentourcf,Amazing,"I bought these earbuds a few weeks ago and quite honestly I am surprised by the quality! firstly what I really liked was the option to block noise, itâs incredible how perfectly it works. then, the quality of the microphone when I'm on a phone call is great! and you can know the battery of the charging case thanks to 3 small lights. the only negative point is that personally the different sizes of ear tips  do not suit me. anyway I validate these earbuds !",5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}
+{
+
+""Aspect"": ""Noise cancellation"",
+
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Microphone quality"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 6
+
+}","['Quality', 'Noise cancellation', 'Microphone quality', 'Battery life']"
+122,Lm12,Complete waste of money.,"When I first bought this product, I was instantly disappointed.
+
+Sound quality is crisp, but these run very quietly. When using in the gym, theyâre almost useless as they simply donât go loud enough. 
+
+Iâve used MIFO and APPLE for years prior and both were fantastic. JBL is renowned for being a quality brand but I must say, this just isnât the case at all.
+
+Not only were they MUCH quieter than any other headphones Iâve owned, they also CONSTANTLY dropped out, disconnected themselves, constantly made âgestureâ noise whilst playing even when all gestures are turned off which was very frustrating.
+
+Things then get worse as the headphones have now blown - now they get used 5 times per week for 1-2 hours at most using only the EQ settings that come integrated with the headphonesâ¦ Iâve NEVER had a pair of headphones blow. These are approximately only a year old now.
+
+When expressing the fault to customer service, I was offered a replacement and when I pointed out the customers are reporting the same issues, they didnât care. They clearly have a faulty product and even the newer model has the same reviewsâ¦ so they have no interest in resolving the fault.
+
+Donât waste your money with JBL.
+
+If you read the other reviews, it seems Iâm far from the only person experiencing these issues.",1,Negative,jbl,"{
+""Aspects"": [
+{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}, {
+""Aspect"": ""Volume level"",
+""Weight"": 9
+}, {
+""Aspect"": ""Connection issues"",
+""Weight"": 7
+}, {
+""Aspect"": ""Product durability"",
+""Weight"": 2
+
+}","['Sound', 'Volume level', 'Connectivity', 'Product durability']"
+123,RD2023,Overall great!,"Firstly I really liked the size of the charging case which is nice and compact making it easy to carry around compared to other buds I have used in the past.  I also really like the finish of the buds which look classy particularly with the metal finish. The battery life is extremely good and I have not had to worry about recharging as frequently as my previous headphones despite using them frequently. I found the app very easy to use and navigate between options of adjusting sound quality and accessing the features such as noise cancelling.  The adaptive noise-cancelling function is overall good and adjusts to your surroundings however I have found rivals slightly better in blocking out those unwanted noises. However, the sound quality in my opinion is great.  Very clear and brilliant baseline.  Overall, I feel this is great value for money.",5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Battery Life"",
+""Weight"": 9
+}
+{
+
+""Aspect"": ""App Userfriendliness"",
+""Weight"": 7
+}
+{
+
+""Aspect"": ""Noise Cancelling Function"",
+""Weight"": 6
+}","['Design', 'Battery Life', 'App Userfriendliness', 'Noise Cancellation']"
+124,Su3d3,Disappointing :-(,"I bought JBL over-the-ear headphones and they worked great, so when JBL had their great 50% sale, I bought these earbuds for working out. I am happy with the quality of sound and the controls, however, the earbuds cut out every few minutes. It is quite frustrating. I talked with JBL customer service and to their credit, sent me new ones under the guarantee. Right out of the box, the new ones are doing the same thing and I feel the longer I wear them, the more frequent the cut outs occur.  I have older earbuds I have gone back to that don't have problems, so it isn't my phone. If something like this doesn't bother you, buy them, but it does me so I have stop using them. I cannot, in good faith, sell them to someone else knowing they do not work right, so now they just sit there. :-(",1,Negative,jbl,"{
+""Aspect"": ""Quality of Sound"",
+""Weight"": 8 }
+{
+""Aspect"": ""Controls"",
+""Weight"": 7 }
+{
+""Aspect"": ""Cutting Out"",
+""Weight"": 9 }","['Sound', 'Controls', 'Cutting Out']"
+125,Top_Gear_Fanboy,Great quality and comfort,I really enjoyed this product. They are actually extremely comfortable in your ears and Ive worn them for a great deal of time and I don't really get any fatigue. The app is also pretty cool and allows you to change in between the different modes (basically whether it passes in outside sound or just uses noise canceling). Overall I really enjoyed them. I also liked how small their case was as it was very convenient.,5,Positive,jbl,"{
+""Aspect"": ""Comfort"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise Cancelation"",
+
+""Weight"": 9
+
+}","['Comfort', 'Noise Cancelation']"
+126,BlondeAzn,AMAZING!,"I canât believe how amazing these earbuds are! This is the third set of JBL earbuds that Iâve been lucky enough to try and this by far is the best ones yet. The charging case is a little square. Sleek and not bulky. I absolutely love the interchangeable noise canceling feature. The quality of the sound is so clean and crisp. I wear these while I workout and Iâve had 0 issue with them falling out. They are very comfortable and fit my ears perfectly. They take about 15 mins to change and once charged, I can use them for a few days depending on how many hours I use em. Thereâs a little light indicator on the case to let me know when I need to charge them. A nice feature is they can be charged wirelessly. The touch feature is perfect for working out so I donât have to reach for my phone, I can just tap the earbud to pause my music. I got the blue pair but I know them come in different colors.",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9 }
+{
+""Aspect"": ""Comfort"",
+""Weight"": 8 }
+{
+""Aspect"": ""Noise Cancelation"",
+""Weight"": 7 }
+{
+""Aspect"": ""Charging Case"",
+""Weight"": 6 }
+{
+""Aspect"": ""Design"",
+""Weight"": 5 }","['Sound', 'Comfort', 'Noise Cancelation', 'Charging Case', 'Design']"
+127,UKears,Great product,"Exceptional product, sound quality, design, colour amazing ( I went for the silver/grey ones) ease of use is just really good. Iâve used apple wireless headphones for a number of years but decided to go with the live pro 2s, they look way better than AirPod pros too.
+
+I paid Â£130 but they are Â£99 now maybe JBL will honour the discount for me too as I only ordered it last week. :)",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 10
+}
+{
+
+""Aspect"": ""Design"",
+
+""Weight"": 9
+
+}
+{
+
+""Aspect"": ""Colour"",
+
+""Weight"": 8
+
+}
+{
+
+""Aspect"": ""Ease of use"",
+
+""Weight"": 9
+
+}","['Sound', 'Design', 'Colour', 'Ease of use']"
+128,Adrian23,I love them,"High-quality sound and excellent call quality on both ends, a comfortable yet secure fit, and a feature-rich Android app. What more could I ask for? After owning (and getting disappointed by) Samsung, Pixel, and Anker buds, I'm pleasantly surprised and highly satisfied with this pair. I received them as a gift. I've never had anything from JBL before, and I never would have thought of buying anything, but now I'm looking forward to trying out more of their stuff, and I would highly recommend these earbuds.",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9 }
+{
+""Aspect"": ""Comfort"",
+""Weight"": 8 }
+{
+""Aspect"": ""Fit"",
+""Weight"": 7 }
+{
+""Aspect"": ""Feature-rich Android app"",
+""Weight"": 6 }","['Sound', 'Comfort', 'Fit', '-rich Android app']"
+129,Paul,"Great sound, good fit and useful features",I've had these for a month now to replace a good set of Denon wired earbuds and the sound is every bit as clear and punchy. The rubber earpieces mean they fit far better than the cheaper JBL buds with the hard plastic casings. Batter life seems good and with wireless charging it's easy to keep the case charged up. It can also be charged by usb-c cable from my phone if needed. The JBL app is easy to use and allows you to modify the touch controls and equaliser to a good degree. Overall these are a big step up from cheaper Â£20-60 earbuds without spending Â£200+ on more premium makes,5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Fit"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 6
+
+}
+
+
+{
+
+""Aspect"": ""Wireless charging"",
+
+""Weight"": 5
+
+}
+
+
+{
+
+""Aspect"": ""App ease of use"",
+
+""Weight"": 4
+
+}","['Sound', 'Fit', 'Battery life', 'Wireless charging', 'App ease of use']"
+130,durandal,Best JBL TWS headphones,"This is the best TWS headset that JBL makes. Sounds great, very compact wven with case, and good noise canceling.  Only thing that could be better is a little better microphone cancelling when on a call as some people on other end have complained.",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Compactness"",
+
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Noise canceling"",
+
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Microphone cancelling"",
+
+""Weight"": 7
+
+}","['Sound', 'Compactness', 'Noise Cancellation', 'Mic']"
+131,pastorod23,Too many issues,"I was so excited to get these buds as I've been a fan of JBL for years, having a JBL soundbar. The sound produced is incredible. So I was sold on these buds, knowing I wouoldn't have to worry about its sound. The things most important to me was the alldged 10 play time that was advertised, and the water resistance. I bought these directly from JBL. Again, the sound qulaity was totally awesome. I can hear my music clearly in a loud environment as well. So I bought these to use primarily at work. I average 9 - 10 hours a day. Well in using these buds, I was only getting less than 8 hours on a full charge with noise canceling turned off. They also displayed an intermittent connection were the sound would go in and out. I thought it might be my phone signal but it wasn't. Music and video kept playing during periods of unstable connection. It hapened every single time after I connect my bluetooth to my new S22 Ultra 5G. I haven't had any other these problems with any other bluetooth device. Then the 10 hour play would become less and less. I'd only get 6 - 7 hours of play. I then bought a second JBL Live Pro 2 from an authorized vendor because I felt the ones I had were possibly defective. Since I only had the first pair for two weeks I sent them back for a refund. I got my second Live Pro 2, but the connectivity was exactly the same as the first pair. However, I'm only average 4 - 5 hours of play. Again this is without noise cancelling on. Before returning the first pair, I had called tech support and was told the shortened battery life was due to the volume level and other reasons not listed anywhere on the box. While these have incredible sound, it has too many major issues. Even my Galaxy buds 2 gives me more play time.",3,Negative,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9 }
+{
+""Aspect"": ""Battery life"",
+""Weight"": 6 }","['Sound', 'Battery life']"
+132,X27D,Good headphones but...,"Headphones are good, audio fidelity is above average, not amazing. However, they are let down by a terrible accompanying app, which for some bizarre reason must be downloaded to use them with an android device. They also occasionally dropout for no reason on to resume a second latter, hopefully this will be resolved with a firmware update.",3,Negative,jbl,"{
+""Aspects"": [""Audio fidelity"", ""App""],
+""Weight"": {
+""Audio fidelity"": 8,
+""App"": 2
+}
+
+}","['Sound', 'App']"
+133,Meluma,such a power in a small box,"I've been using these fro some time now, and they are brilliant! much more comfier than my previous ones and doesn't fall out of the ear. Noise cancellation is amazing and once on you can't hear e.g. cars going past outside( I live near busy road), or rain.  Voice calls are so much higher quality than before, finally the recipient of the call can hear me without any sound disruptions. in general sound quality is very good, with the correct settings that you can choose in the app you can feel like you are in the concert if listening to music, or in the filming plot if watching a movie or any other clip. personally I liked all the design from the charge box which was small and compact to the earbuds and colour was not the boring black and a bit different. Also very handful function for me, who always loses small things was 'find my buds', hopefully won't ever need to use it, but it's great it is there. the only downside why I am giving it 4 stars was : when the app needed to be updated and I was listening to music it started to pause frequently until I updated the app, which was a bit annoying, but anyway all good.",4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9 }
+
+{
+
+""Aspect"": ""Noise Cancellation"",
+
+""Weight"": 8 }
+
+
+{
+
+""Aspect"": ""Design"",
+
+""Weight"": 7 }
+
+
+{
+
+""Aspect"": ""Voice Calls"",
+
+""Weight"": 6 }
+
+
+{
+
+""Aspect"": ""Functionality"",
+
+""Weight"": 5 }","['Sound', 'Noise Cancellation', 'Design', 'Voice Calls', 'Functionality']"
+134,Florian R,Elevating Your Cycling Experience,"I'm an avid cyclist, and I recently got my hands on the JBL Tune Beam true wireless earbuds, and I'm absolutely thrilled with my purchase.
+
+These earbuds are a game-changer for my rides. With up to 48 hours of outstanding JBL Pure Bass Sound, I can tackle any cycling route while enjoying my favorite tunes. Their ergonomic design ensures all-day comfort, and the fact that they're water and dust resistant is a huge plus, especially during unpredictable weather.
+
+What I love most is the touch-sensitive controls, making it super easy to manage calls without being bothered by ambient noises. The Active Noise Cancelling and Smart Ambient technology are fantastic features, allowing me to decide whether I want to disconnect from the world or stay aware of my surroundings for safety.
+
+The secure fit and noise isolation due to the stick-closed design enhance the overall audio experience. Plus, the JBL Headphones App lets me customize my listening experience to perfection.
+
+In summary, the  earbuds have truly elevated my cycling adventures. They keep me connected and entertained while ensuring my safety and comfort. Highly recommended for fellow cyclists!",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9 }
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 8 }
+
+
+{
+
+""Aspect"": ""Water Resistance"",
+
+""Weight"": 7 }
+
+
+{
+
+""Aspect"": ""Ergonomics"",
+
+""Weight"": 6 }
+
+
+{
+
+""Aspect"": ""Touch Controls"",
+
+
+""Weight"": 5 }
+
+
+{
+
+""Aspect"": ""Active Noise Cancelling"",
+
+
+""Weight"": 4 }
+
+
+{
+
+""Aspect"": ""Smart Ambient"",
+
+
+""Weight"": 3 }","['Sound', 'Comfort', 'Water Resistance', 'Ergonomics', 'Touch Controls', 'Noise Cancellation', 'Smart Ambient']"
+135,Jbl_customer,Good headphones,"This product is great! I decided to splurge and not get the cheapest wireless headphones I could find. These are well worth the investment. No buttons to break or that require you to mash them into your ear to pause. The magnetic clasp feels sturdy and secure. They last almost a week on a full charge (using them for about an hour or two a day).
+
+The only small thing is that occasionally the audio cuts out for a split second. I don't know if it's my phone or the headphones, but it happens rarely enough that I'm assuming the next software update will take care of it.",4,Positive,jbl,"{
+""Aspect"": ""Design and Build Quality"",
+""Weight"": 8 }
+
+{
+
+""Aspect"": ""Audio Performance"",
+
+""Weight"": 5 }","['Design', 'Quality', 'Sound']"
+136,barrayar1,Great Sounds,The JBL Live Pro 2 In Ears have a great sound. It can be scaled even better by downloading the JBL Headphone app. What is noticeable is that the bass portion is always too high - even in the vocal setting. The small charging case is nice and fits in any trouser pocket. The charging case is connected to a high-speed charging cable within 2 hours. The InEars are fully charged within a good 3 1/2 hours. The charging case still has 60% charge. The InEars adapt perfectly to the ear cups and the ANC is awesome - the JBL InEars are really only recommended.,4,Positive,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Bass"",
+
+""Weight"": 6
+
+}
+
+
+{
+
+""Aspect"": ""Design"",
+
+""Weight"": 8
+
+}","['Sound', 'Bass', 'Design']"
+137,Snfv,Not nice,Was raining and they stop to work nor even a week since I bought them,1,Negative,jbl,"{
+""Aspect"": ""Rain"",
+""Weight"": 8
+
+}",['Rain']
+138,Hextreme,Wow!,"I have many sets of earbuds including the Sony xm4's and these JBL Live Pro 2 are the best I have owned so far. The audio quality is fantastic and using the app allows me to change settings to get the quality perfect for me. Bass is really good. My big surprise is the quality of the mic for calls. As long as you speak clearly and slowly, the person on the other end will hear you even with background noise. The noise cancelling, whilst not the best I have had, is perfectly adequate for me. Overall I recommend these as they are good all rounders.",5,Positive,jbl,"{
+""Aspect"": ""Audio Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Mic Quality for Calls"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Noise Cancelling"",
+
+""Weight"": 7
+
+}","['Sound', 'Mic', 'Noise Cancellation']"
+139,boomslang,Good sound. Abominable connection stability,"These sound great - if you like your audio punctuated with dropouts and disconnects. I really like the sound of these. The ANC is excellent. The connectivity is atrocious, it's shamefully bad and I cannot overstate how bad it is with _all_ of my devices. I wish I'd returned them, but kept being promised issues would be fixed after software updates which only marginally helped if at all. It's not even that I've got a bad set, my wife's are almost as bad. It's a real shame because JBL usually produce high quality gear. Would not recommend.",1,Negative,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Connectivity"",
+""Weight"": 1
+}","['Sound', 'Connectivity']"
+140,Felix Cherry,Disconnect seriously when using outdoor,"I bought this earphone this August on the 19th, sound quality is nice noise cancellation does it work indoor. However, when using outdoor it continues to disconnect and disconnect seriously, call me this situation be resolved is a critical. it will be kind enough of you to let me have a solution to avoid outdoor disconnection.",1,Negative,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Noise cancellation"",
+
+""Weight"": 7
+}
+{
+
+""Aspect"": ""Outdoor connectivity"",
+
+""Weight"": 9
+}","['Sound', 'Noise cancellation', 'Outdoor connectivity']"
+141,Cheks,Very disappointed,"Iâve had these for almost 6 months. Theyâve never really been jaw dropping like the way a lot of people say. People cannot hear me properly when Iâm on the phone, thereâs no noise cancellation on them and worst of all, Iâd have my music on blast in my ears but the outside world is way louder! It sounds like the volume is on low constantly. The charge time definitely does not last as long as it says it does for me. I donât know if I got a bad batch but itâs sub par quality. I should have just stuck with AirPods.",2,Negative,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 5
+}
+
+{
+
+""Aspect"": ""Noise Cancellation"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Volume Levels"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Charge Time"",
+
+""Weight"": 3
+
+}
+
+
+{
+
+""Aspect"": ""Quality"",
+
+""Weight"": 2
+
+}","['Sound', 'Noise Cancellation', 'Volume Levels', 'Charge Time', 'Quality']"
+142,Gdon,These are unbelievably great,"Fantastic little things.
+Connect rally easy to different units in my home. Are loud clear and excellent sound
+I WEAR HEARING AIDS ( over ear )  yet these still fit into my ears are snug, comfortable and donât move when Iâm on the treadmill .
+Iâve tried some before and they were not even as half as loud as these and they were dearer, and the wer really uncomfortable
+I am just so pleased to have them and would never thought to buy them accept Harvey Norman had a 30 day money back offer, so I thought what the heck I will give them a go . 
+The app is great to boost up to what you want.
+Iâve seen where people say they would prefer the headphones to have volume on the headphones and not just the app, but if you read the instructions you can set up the left one for volume as easy as pie.",5,Positive,jbl,"{
+""Aspects"": [""Ease of use"", ""Sound quality""],
+""Weight"": 8
+
+}","['Ease of use', 'Sound']"
+143,Jaye99,Second bluetooth device keep disconnect.,I been using this earbud & start to notice that second device that pairing alway disconnect after 30mins of use. but there is no issue on primary device. Any advice on how to fix it? In general ear bud sound very good.,3,Positive,jbl,"{
+""Aspect"": ""Disconnections"",
+""Weight"": 8
+
+}",['Disconnections']
+144,joji35,cuts out all the time,"I've had these for a little for over a month and the sound is amazing, but the Bluetooth connectivity is horrible. I have had 2 other pairs of wireless headphones in the past and granted they cut out from time to time, but THESE cut out ALL THE TIME> it's super annoying. also have noticed it's worse depending on what type of clothing I'm wearing and the pocket material. most times I have to walk around with my phone in my hand. and it's not the phone because I've tested on another device.",2,Negative,jbl,"{
+""Aspect"": ""Bluetooth Connectivity"",
+""Weight"": 8
+
+}",['Bluetooth Connectivity']
+145,momof2,Sleek and mighty in a small package,"Sleek and attractive right out of the box.  I have the blue - which is a cool metallic color.  Once inserted, could immediately sense the noise cancellation properties.  Comfortable and lightweight in ear.  The headphones linked easily to my iPhone - all to had to do was find it listed under Bluetooth and clicked on the link to connect.   Controls were easy enough to figure out.  Sounds quality was great - Iâm not an audiophile but my music sounded great - a good mix of treble and bass.",5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise Cancellation"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Ease of Use"",
+
+""Weight"": 6
+
+}","['Design', 'Noise Cancellation', 'Comfort', 'Ease of Use']"
+146,good but bad,"Good earbuds, problem","I honestly really liked them, the noise cancelling was good so was the equalizer, but after only a month a half of using them the left ear bud simply stopped working properly, The left earbud would almost never charged. The right earbud and case worked perfectly.I tried cleaning it resetting it everything. I never got it wet dropped the case but they just stopped working after a month and a half. There was almost no advice on this. They were good, but no one likes to use one earbud.",2,Negative,jbl,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8 }",['Quality']
+147,hirtspeedy,Over priced,"I bought this earphones about two weeks ago by $87, I lost one and now you are buying the same one for $63 dollar extra, really? Come on JBL!!!!",1,Negative,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 2 }",['Quality']
+148,jhp04,JBL Live Pro 2 TWS - just one gripe,"Nice packaging on delivery, feels like a premium product.  Very easy to use and pair with my iPhone- doesnt seem to drop connection like some other headphones.  Comfortable to wear. The microphone is good and i tend to be heard loud and clearly on calls. Sound quality is also good - maybe a little too bass-y.  Battery tends to last too. 
+my only gripe is the lid of the charger/holder which feels very flimsy and easy to break.  Other than that, a good set of headphones.",4,Positive,jbl,"{
+""Aspect"": ""Packaging"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Ease of use"",
+
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Microphone quality"",
+
+""Weight"": 7
+}
+
+{
+
+""Aspect"": ""Sound quality"",
+
+""Weight"": 6
+}
+
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Charger/holder lid"",
+
+""Weight"": 4
+}","['Packaging', 'Ease of use', 'Mic', 'Sound', 'Battery life', 'Charger/holder lid']"
+149,bobby0712,overall..,"the sound quality is spectacular with a bunch of different options! volume is also wonderful, though very loud. i think i might of screwed up my hearing tbh but thatâs not the earbuds fault. 
+the battery life is also spectacular! i would charge them every night since i would typically use them all day and they would last! if battery was close to dying on the buds, just put âem back in the case for a few minutes and it would last another couple hours. 
+
+my only issue with the buds is comfortability. my ears are so sore after using these earbuds!! iâve tried all of the different size rubber ear thingies and it didnât change anything. though itâs probably just my ears. that really bummed me out because i got them as a christmas gift. 
+
+overall iâd give the earbuds a 3/5 because comfortability is extremely important to me!",4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Battery Life"",
+
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Comfortability"",
+
+""Weight"": 2
+
+}","['Sound', 'Battery Life', 'Comfortability']"
+150,Draugs,Great quality earbuds,"The JBL Live Pro 2 earbuds have truly impressed me. The active noise cancellation feature is a game-changer, allowing me to enjoy my music or podcasts without external distractions. Their comfortable fit makes them ideal for long listening sessions, and I never worry about them falling out during workouts.
+
+The touch controls are intuitive and responsive, giving me easy access to playback and calls. Plus, the long battery life means they last throughout the day.
+
+I appreciate their water-resistant design; it gives me peace of mind when using them during workouts or in unpredictable weather.
+
+In summary, the JBL Live Pro 2 earbuds offer top-notch audio quality and advanced features. They've become an essential part of my daily life, providing an exceptional listening experience. Highly recommended for those seeking high-quality wireless earbuds.",5,Positive,jbl,"{
+""Aspect"": ""Audio Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Comfort"",
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Water Resistance"",
+""Weight"": 6
+
+}
+
+{
+
+""Aspect"": ""Touch Controls"",
+""Weight"": 5
+
+}
+
+{
+
+""Aspect"": ""Battery Life"",
+""Weight"": 4
+
+}","['Sound', 'Noise Cancellation', 'Comfort', 'Water Resistance', 'Touch Controls', 'Battery Life']"
+151,RandomHero,Great sound for great price! Very intuitive.,"I bought these a month ago to replace my old JBL Tune buds that stoped charging. I'm super impressed with the design of the buds and the case. The active noice cancelling has worked great.  Another bonus is that the ear buds fit perfect for me and are really comfortable!
+JBL has shown me that they are a great brand with great products! I would reccomend the Live Pro 2 buds to anyone that wants great sound at a great price.",5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Active Noise Cancelling"",
+
+""Weight"": 9
+
+}","['Design', 'Comfort', 'Noise Cancellation']"
+152,Kerry O,A great all rounder!,"These ear buds have really good sound, good base and amazing noise cancellation. They are comfortable to wear and also look stylish. The battery hold is also amazing, lasting for days without needing to be charged, unlike some cheaper brands that only last a day if that! Iâd certainly recommend these ear buds as they are great not just for every day listening, but also working out or just out walking! A good all rounder.",4,Positive,jbl,"{
+""Aspects"": [""Sound"", ""Base"", ""Noise Cancellation"", ""Comfort"", ""Battery Life""],
+""Weight"": {
+""Sound"": 9,
+""Base"": 8,
+""Noise Cancellation"": 9,
+""Comfort"": 9,
+""Battery Life"": 10
+}","[""Sound"", ""Base"", ""Noise Cancellation"", ""Comfort"", ""Battery Life""]"
+153,Sabby789,Great,"I bought these headphones a month ago and ao far so good. They fit well and the sound quality is excellent. In terms of the battery life, it lasts around 5 hours out of the case, and then you have to put it back in the case, and then it recharges in the case. The case battery lasts for a long time. So all in all, I'm happy, but there are times I would have liked to use them continuously for more than 5 hours but cant.",4,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 6
+
+}","['Sound', 'Battery life']"
+154,tootoochan,its waterproof but cannot swim with them,"disappointed.  i am returning them. they are IPX8 waterproof but the sensors are too sensitive such that the ear pods connect and disconnect and connect and disconnect multiple times when the pods sense the pressure of the water / waves in the swimming pool.  Maybe i should not have expected waterproof ear pods to be suitable for swimming.  I was not diving. 
+
+if you dont buy them for swimming, then they work fine.",3,Negative,jbl,"{
+""Aspect"": ""Sensitivity"",
+""Weight"": 7
+}",['Sensitivity']
+155,s11nny,Great ambient aware,"I have been using these for exactly 3 weeks now in the gym, i bought them just for the gym, and i think they are a cheaper alternative to the airpods pro, they do what theyâre supposed to do, great noise cancelling and as you may all know you always seem to bump into gym buddies and have a short chat, the earphones pick up you talking and goes into ambient aware automatically. Id buy these again.",5,Positive,jbl,"{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 8 }
+
+{
+""Aspect"": ""Automatic Ambient Aware"",
+""Weight"": 7 }","['Noise Cancellation', 'Automatic Ambient Aware']"
+156,Angelina91,Just an amazing device,"the headset is amazing. it fits easy and the sound is amazing. I used the earplugs while i was doing sport. you can wear them also for running and Kanga. The plugs are so tiny that my son can't grab them out of my ears while i carry him. The app is easy to use and very good for rookies. Last, but not least: A very good device that i will realy miss after the testting time:..(",5,Positive,jbl,"{
+""Aspect"": ""Fit"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Sound quality"",
+
+""Weight"": 9
+
+}
+
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Ease of use"",
+
+""Weight"": 6
+
+}","['Fit', 'Sound', 'Comfort', 'Ease of use']"
+157,getbeats3,it works only sometimes,"The things I was looking for when purchasing this was is it small enough? Is the sound quality good? can i workout with it? and when I make a phone call is the mic quality good? 
+
+I had read a few reviews saying that after a few months it just stopped working. i only bought it a few weeks ago and it already started not wokring only sometimes. i got so frustrated i got on a crowded train full of loud people and was hoping to use the noise cancelling feature and listen to some music. it wouldnt play. it would connect, i would have the music playing with full volume, but i would hear nothing. even restarted my phone. normally im not picky with earbuds but this was just extremely frustrating that it would only work sometimes. plus my boyfriend whom i facetime often also told me it's hard to hear when i speak through the mic. other than this, the noise cancelling was good, and the sound quality was good, but only when it would work.",3,Negative,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise Cancelling Feature"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Mic Quality"",
+
+""Weight"": 6
+
+}
+
+{
+
+""Aspect"": ""Workout Compatibility"",
+
+""Weight"": 4
+
+}
+
+{
+
+""Aspect"": ""Reliability"",
+
+""Weight"": 3
+
+}","['Sound', 'Noise Cancellation ', 'Mic', 'Workout Compatibility', 'Reliability']"
+158,Tonyv,Superb Value For Money,"These in earphones tick all the boxes. They have great bass, clear sound, pairs and conncets quickly, the phone app is good and you can customise the sound and other features easily, touch features work well and they fit nice and comfortably in the ear. Did I mention the superb ANC? Superb value for money ans food looking too. You won't regret buying these.",5,Positive,jbl,"{
+""Aspects"": [
+{
+""Aspect"": ""Bass"",
+""Weight"": 9
+}, {
+""Aspect"": ""Sound"",
+""Weight"": 8
+}, {
+""Aspect"": ""Pairs and connects quickly"",
+""Weight"": 7
+}, {
+""Aspect"": ""Phone app"",
+""Weight"": 6
+}, {
+""Aspect"": ""Customizable sound and features"",
+""Weight"": 5
+}, {
+""Aspect"": ""Touch features"",
+""Weight"": 4
+}, {
+""Aspect"": ""Comfortable fit"",
+""Weight"": 3
+}
+]
+
+}","['Bass', 'Sound', 'Pairs and connects quickly', 'Phone app', 'Customizable sound', 'Touch', 'Fit']"
+159,sophvdh,Much better sound and bass than expected!,"I will be throwing out my Airpod pros after receiving these earphones! They are much comfier to wear, the case is smaller (and cuter), the colour options are cool and as the title suggests I am VERY impressed with the sound, especially when compared to the affordable price. I don't often leave reviews but I will be recommending these to everyone.",5,Positive,jbl,"{
+""Aspect"": ""Comfort"", ""Weight"": 9
+""Aspect"": ""Sound Quality"", ""Weight"": 10
+}","['Comfort',  'Sound']"
+160,slipperyfish,great until,"bought this about 1 and half to 2 months ago, I really liked it until now.My left earbud, nevers goes to 100% and almost never charges even if in the case. My right earbud works perfectly. I have cleaned it, reset it , reconnected it. nothing has worked.I really liked these ear buds but this is a huge issue, there is also no support on this.",2,Negative,jbl,"{
+""Aspect"": ""Functionality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Support"",
+
+""Weight"": 9
+
+}","['Functionality', 'Support']"
+161,Upiet,Good earbuds,"After testing the JBL Live Pro 2 TWS I have to say they are good the sound quality is good the ambient awerness functions perfectly, beeing able to have conversations while listening to music feels great. The earbuds fit snuggly into an ear and have exelent battery life.the only bad tink for me at least was that the sound was a bit quiet.",4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Ambient Awareness"",
+
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Fit and Comfort"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Battery Life"",
+
+""Weight"": 6
+
+}","['Sound', 'Ambient Awareness', 'Fit', 'Comfort', 'Battery Life']"
+162,charlottes,Highly recommend JBL Live Pro 2 TWS,"These are so much better than I expected. This is the first JBL product I've had and they did not disappoint. They were super easy to set up, fast charging, comfortable to wear and really good quality. The fit and sound are brilliant. The noise cancelling feature is good too. I would definitely recommend them to friends and family.",5,Positive,jbl,"{
+""Aspects"": [""Ease of use"", ""Sound quality"", ""Comfort"", ""Build quality""],
+""Weight"": [8, 9, 7, 9]
+}","[""Ease of use"", ""Sound"", ""Comfort"", ""Build""]"
+163,Phee,Annoying gesture noise,The sound is great and the battery life is good however every time I go to adjust them in my ears thereâs an annoying beeping noise that you can not turn off. This noise is linked to the gestures however even if you donât have any set up it still beeps when you tap the earpiece. It is very loud and there is no reason for it.,1,Negative,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Battery life"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Beeping noise"",
+
+""Weight"": 9
+
+}","['Sound', 'Battery life', 'Beeping noise']"
+164,Rose05,Look elsewhere,"I would consider soundcore over JBL. I was working and using these buds. Unfortunately I had some interference with the printer of all things. Also the button customization is poor. Not worth the black Friday sale of $75+ whereas with soundcores Liberty 4 NC, at $69.99 MSRP, you get better audio and customizable buttons.",2,Negative,jbl,"{
+""Aspect"": ""Audio Quality"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Button Customization"",
+
+""Weight"": 3
+
+}","['Sound', 'Button Customization']"
+165,affectionate_robinson,Jbl live pro 2,"Jbl live pro 2 twos earphones ,wow these are great earphones love the packaging and the wireless case fantastic piece of kit by Jbl , the fast. Charge and and the 40hour battery time work great especially as I,m using these at the gym everyday and the sound is fantastic well done Jbl your done a great job once again",5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 9
+}
+{
+
+""Aspect"": ""Performance"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Battery Life"",
+""Weight"": 7
+}
+{
+
+""Aspect"": ""Packaging"",
+""Weight"": 6
+}","['Design', 'Performance', 'Battery Life', 'Packaging']"
+166,Hmicc,Great for Teens - ideal gift material,"Easy to use but the sound isnât great when comparing to âpremiumâ products.
+
+I think this should be marketed at teens, as theyâre good earphones for the price but not quite high end.
+
+The build quality is up there, they seem like they could cope with being dropped. The case is very sleek and looks very good.",4,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 6
+}
+
+{
+
+""Aspect"": ""Build Quality"",
+
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Marketing"",
+
+""Weight"": 4
+}","['Sound', 'Build', 'Marketing']"
+167,Click182,"Fall out, no matter what i try.",I have really tried to like these earbuds however i have tried every size ear bud plug provided in the set and they beep and fall out every time. The tap feature is also difficult to use as its difficult to find the right place to tap. Im upset because they're basically new and i cant use them.,2,Negative,jbl,"{
+""Aspect"": ""Fit"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Tap feature"",
+
+""Weight"": 5
+
+}","['Fit', 'Tap ']"
+168,Vineet,Absolute Best!!,"It is absolutely the best one I have used so far. Amazing sound quality, the best one I have found with bass. I am completely surprised by noise canceling, well they has 3 microphones per ear piece, I expect no less. I mostly use for music, but with this mic quality I am very impressed.",5,Positive,jbl,"{
+""Aspects"": [""Sound Quality"", ""Bass"", ""Noise Canceling""],
+""Weight"": 9
+}","['Sound', 'Bass', 'Noise Cancellation']"
+169,Mali1,"Great earphones, except for one thing.","I bought these a few months ago and they were perfect. Noise cancelling is amazing and really just removes everything around you. The ambient aware function is great and makes you forget theyâre in your ears while talking to someone. Sound Quality is amazing, everything is crystal clear, very high bass levels without ruining the audio. Thatâs all great.
+
+The issue is that, no matter what audio is being played, or the battery level, or distance from the device, the earphones seem to randomly cut out every 5 minutes or so for just 2 seconds, not a huge problem but itâs just really annoying and takes you out of whatever expereince youâre in. No matter what Iâm connected to, my phone, PC, whatever it always happens. But it seems to happen much more frequently on PC going up to once every 20 seconds or so. I know itâs not my devices because surely an iPhone 11 has a good bluetooth reciever. 
+
+Was going to buy a pair of headphones a while after I bought these but because of this issue I didnât incase it happens again.",3,Negative,jbl,"{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Ambient Aware"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Sound Quality"",
+
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Random Cutouts"",
+
+""Weight"": 6
+
+}","['Noise Cancellation', 'Ambient Aware', 'Sound', 'Random Cutouts']"
+170,Old school guy,Why do I need an app?,"I cant pair to my headphones because i dont have the app but i cant open the app because my headphones arent paired...if I had known I needed an app to use these, I would have gone with something else...why has everything gotta be 'connected' these days? Garbage",1,Negative,jbl,"{
+""Aspect"": ""Pairing"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""App Requirement"",
+
+""Weight"": 2
+
+}","['Pairing', 'App']"
+171,Lodogg23,Not 40 hours.,"These earbuds have a really great sound. But 40 hours? No! At best the earbuds will only last up to 6 hours between charging and that's straight out the box. Not after months of charging. Add to that, talk time really and drastically reduces battery life.",3,Negative,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Battery life"",
+""Weight"": 6
+}","['Sound', 'Battery life']"
+172,Jagga,Great,This is the best noise canceling and perfect calling for Busey routes perfect fit overall all features is fantastic and price is best for others big brands Their price is too high and no features which you get live pro may this is very good tws Wow,5,Positive,jbl,"{
+""Aspect"": ""Noise Canceling"",
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Call Quality"",
+
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Fit"",
+
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Features"",
+
+""Weight"": 6
+
+}
+
+{
+
+""Aspect"": ""Price"",
+
+""Weight"": 5
+
+}","['Noise Cancellation', 'Call Quality', 'Fit', 'Price']"
+173,JuliaSv96,"Amazing, top best headphones","I've been using them for almost a month and I can't be any happier! They even survived the test when I was riding the bycicle and running after the bus like a mad one) The one I dislike that I can't turn the volume up.
+Thank you, JBL! 5 out of 5",5,Positive,jbl,"{
+""Aspect"": ""Overall Satisfaction"",
+""Weight"": 10
+}
+
+{
+
+""Aspect"": ""Volume Control"",
+
+""Weight"": 8
+
+}","['Overall Satisfaction', 'Volume Control']"
+174,winterflower777,Good quality headphones,"I received the headphones one week ago. Since then, I used them daily on my evening walks. First of all, the connection of the headphones to my iPhone was done within seconds with no problems at all. Moreover, every time I pick them up from their box, the connection is established automatically, same goes for putting them back inside the box. Especially when putting them back in the box, they always âclickâ in their correct charging spot, thereâs no need to worry that they might not charge, as I had the problem with my old JBLs. 
+The sound quality and the fit of the phones in my ears is also excellent. I never had the feeling they would fall out so far, and my evening walks are always around one hour long, so I guess they wouldnât have fallen out during longer wearing periods. The battery is also very durable as I didnât need to charge the box so far. So all in all, I am very happy with the headphones and can recommend them to anyone with the same needs as me (good sound quality, longlasting battery, easy charging function, good fit in the ears).",5,Positive,jbl,"{
+""Aspect"": ""Connection"",
+""Weight"": 9}
+{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8}
+{
+""Aspect"": ""Fit"",
+""Weight"": 7}","['Connection', 'Sound', 'Fit']"
+175,DrcjL,Not a Proper Fit,"Although they sound and the functions are very convenient,  do not sit in my ear properly and out . I have tried different bud sizes and different to see if it help, but unfortunately they continue to fall our.",4,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Fit"",
+
+""Weight"": 6
+
+}","['Sound', 'Fit']"
+176,TechfreakFFM,Sound to go ;),"Pros:
+-	Good noise cancelling
+- 	the storage box, because can be very easy to open the lid
+-	you can remove the in ears super easy without breaking your fingers - well done JBL
+
+Contra:
+-	For me I find none",5,Positive,jbl,"{
+""Aspects"": [
+{
+""Aspect"": ""Noise cancelling"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Easy to open lid"",
+""Weight"": 7
+},
+{
+""Aspect"": ""Comfortable in ears"",
+""Weight"": 6
+}
+]
+}","['Noise Cancellation', 'Easy to open lid', 'Comfortable in ears']"
+177,Darrenb84,Excellent,"Excellent earbuds, I usually have a issue with them falling out, but these are great stay in, and the noise cancellation is great. Aswell as the sound quality. They are by far the best ear buds I have used.",5,Positive,jbl,"{
+""Aspect"": ""Staying in"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise cancellation"",
+
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Sound quality"",
+
+""Weight"": 7
+}","['Staying in', 'Noise cancellation', 'Sound']"
+178,Quebec Goth,Great value if you do no want to spend much,"Works great, great flat quality that can be tuned with an equalizer. Excellent noise cancelling and good call quality. Great waterproofing, I take showers with it and even dropped in the tub and not broke",5,Positive,jbl,"{
+""Aspects"": [""Quality"", ""Noise Cancelling"", ""Waterproofing""],
+""Weight"": {
+""Quality"": 8,
+""Noise Cancelling"": 9,
+""Waterproofing"": 7
+}","['Quality', 'Noise Cancellation', 'Waterproofing']"
+179,mrE,Great ear buds,"After trying many different type of ear bud I came across these. They fit really well in your ears, have good noise cancelling and they feel premium. Also to top it off they have really good battery life.",5,Positive,jbl,"{
+""Aspect"": ""Fit"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise Cancelling"",
+
+""Weight"": 9
+
+}
+
+{
+
+""Aspect"": ""Premium Feel"",
+
+""Weight"": 7
+
+}","['Fit', 'Noise Cancellation', 'Premium Feel']"
+180,Asteri,"Good features, need improvement on stay connected","Bought this almost a year ago. Love the sound, love that they are almost unnoticed (black), love the voice when on call, love the battery time. I don't like that connectivity drop outs.",4,Positive,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Aesthetics"",
+""Weight"": 7
+}
+{
+""Aspect"": ""Connectivity"",
+""Weight"": 3
+}","['Sound', 'Aesthetics', 'Connectivity']"
+181,PukinDogs,Frustrating BT pairing,"The Good: Good sounding, comfortable.  The Bad: Impossible to switch to another device and back, WAY TO HARD. Uninstall the app, reinstall try to pair them just way to frustrating.",2,Negative,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Comfort"",
+
+""Weight"": 7
+}","['Sound', 'Comfort']"
+182,,Very Impressed,Having had my Apple Air Pods stolen I did quite a bit of research. These are great. Cheaper with better sound. Company were great as I ordered two pies by mistake. Thank you,5,Positive,jbl,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Customer Service"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Mistake"",
+""Weight"": 7
+}","['Quality', 'Customer Service', 'Mistake']"
+183,Disappointed Customer 201,Even 50% off canât make this deal worth it,These sound like garbage; very poor sound quality.,1,Negative,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}",['Sound']
+184,BIG_BOY92,BETTER THEN AIRPODS PRO'S,"REPLACEMENT FOR MY AIRPODS 
+
+BETTER SOUND NOISE CANCELATION & TALK THRU 
+YOU CAN CUSTOM THE EQ AT YOUR DESIRE.
+6 MICS 
+THE PRICE WAS DEAL BREAKER I RECOMMEND THIS PRODUCT",5,Positive,jbl,"{
+""Aspect"": ""Sound Noise Cancellation"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Talk Thru"",
+""Weight"": 7
+}","['Sound Noise Cancellation', 'Talk Thru']"
+185,Landjet,Great JBL sound,"Lives up to JBL sound, the treble with the equalizer in the app isnât as crisp as I would like, but still leaps and bounds above AirPod pro buds that I also have",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+
+}",['Sound']
+186,Mode,Batteries,"I don't know how they say they last 10 hours, they download for me after 5 hours in conversation, or I don't know how the configuration that I should do will be",3,Negative,jbl,"{
+""Aspect"": ""Download Time"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Conversation Time"",
+
+""Weight"": 2
+
+}","['Download Time', 'Conversation Time']"
+187,nyah,Amazing,"bought these a while ago, wouldn't go to apple headphones. they work so well and noise cancelling is a dream! they don't take long to charge and last ages",5,Positive,jbl,"{
+""Aspect"": ""Works Well"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Noise Cancelling"",
+
+""Weight"": 9
+
+}","['Works Well', 'Noise Cancellation']"
+188,Melissa B,Disappointed,The left ear bud will not charge at all. Super disappointing because these were a Fathers Day gift and now I have to return them and go somewhere else.,1,Negative,jbl,"{
+""Aspect"": "" charging functionality"",
+""Weight"": 8
+}",[' charging functionality']
+189,Zoe Duch,Faulty earbud,I bought these and loved them but the left earbud completely stopped working and won't connect or even turn on. I've only have them for about a month.,2,Negative,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 2
+}
+
+{
+""Aspect"": ""Customer Service"",
+""Weight"": 8
+}","['Quality', 'Customer Service']"
+190,JY1234,JBL Live Pro 2,"Bought these a few weeks ago. Very comfortable. So far the battery does well. Very good sound quality. Being on sale, felt like it was a good value.",5,Positive,jbl,"{
+""Aspect"": ""Comfort"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Battery Life"",
+""Weight"": 4
+}
+{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Value for Money"",
+""Weight"": 7
+}","['Comfort', 'Battery Life', 'Sound', 'Value for Money']"
+191,Dazza73,Fantastic noise cancelling,Brought this product in April. Very comfortable. Love all the functions on it. The fast charge case is very handy. Great for people with small ears,4,Positive,jbl,"{
+""Aspect"": ""Comfort"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Functionality"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Fast Charge Case"",
+""Weight"": 9
+}","['Comfort', 'Functionality', 'Fast Charge Case']"
+192,MaxRoadWarrior,Great sound,"Had been shopping true wireless earbuds for a long time. These had all the features I wanted, and the sale price made the decision easy!",5,Positive,jbl,"{
+""Aspect"": ""Features"",
+""Weight"": 8 }",['s']
+193,Mark,Excellent quality and sound,"Excellent quality and sound, tried the others for twice the price and sold them, these are the ones I am keeping, great value",5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}",['Quality']
+194,Connor19,Very good product,"Cool features, noise cancelling is very good and the companion app is easy to use. Sound quality is very good for the price",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Noise Cancelling"",
+""Weight"": 9
+}","['Sound', 'Noise Cancellation']"
+195,Noah dubÃ©,Noise canceling,"I love them. Use it everyday and i can tell that the noise cancelation works super good. Excellent product
+Jbl over Apple.",5,Positive,jbl,"{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 8
+
+}",['Noise Cancellation']
+196,Happy1,"Great buds, good price","Love my JBL Live Pro 2 earbuds. Great sound, great noise cancelling feature, very happy to recommend them to others",5,Positive,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+
+}",['Sound']
+197,Agn24,Great sound,Highly recommend. Sound quality is what is expected from JBL. Worth the price for the features it provides.,5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+
+}",['Sound']
+198,nurse947,,I brought this for my husband as a gift for our anniversary. He picked it out because he knows it is good.,5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+
+}",['Quality']
+199,Waste of time,They connecting to Apple Watch.,They do not connect to my Apple Watch so they are no better than some old wired based headphones.,1,Negative,jbl,"{
+""Aspect"": ""Connectivity"",
+""Weight"": 8
+
+}",['Connectivity']
+200,Zoe0,Love them,"Brought this product about 3 weeks ago, they are amazing, would definitely recommend buying! :)",5,Positive,jbl,"{
+""Aspect"": ""Amazing"",
+""Weight"": 9
+
+}",['Amazing']
+201,,Great features,"Great sound, but the buds do not stay I'm my ear. I've tried all tips and they just fall out.",2,Negative,jbl,"{
+""Aspect"": ""Stays in ears"",
+""Weight"": 8
+}",['Stays in ears']
+202,mastic92,Great product,"I am so happy with my purchase. Great quality, design and conford  all that for fear price ð",4,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}",['Quality']
+203,Amos,Very good sound,"This is indeed a very good product.  Well designed with high-quality, especially the bass.",5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}",['Design']
+204,Mal,Very good earbuds,Yeah they work perfectly and have some great range/battery life can't go wrong with these.,5,Positive,jbl,"{
+""Aspect"": ""Range"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""Battery Life"",
+
+""Weight"": 9
+}","['Range', 'Battery Life']"
+205,annaj,Great Earbuds!,I bought this a month ago and am so happy that i did.Good price. Definitely worth it,5,Positive,jbl,"{
+""Aspect"": ""Price"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Worth it"",
+""Weight"": 9
+}","['Price', 'Worth it']"
+206,Landman3500,They are not good enough,I got these about a year ago and donât use them much and they stopped working.,1,Negative,jbl,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8 }",['Quality']
+207,ssav,Great ear buds,"Excellent sound, companion app works great, and fantastic noise cancellation",5,Positive,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Companion App"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 10
+}","['Sound', 'Companion App', 'Noise Cancellation']"
+208,Manu730,Get these!,"Amazing earphones sound quality, comfort, and noise cancellation.",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Comfort"",
+""Weight"": 7
+}
+
+{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 9
+}","['Sound', 'Comfort', 'Noise Cancellation']"
+209,Draven air pods,Great product,I love these ear buds  I absolutely love the noise canceling,5,Positive,jbl,"{
+""Aspect"": ""Noise Canceling"",
+""Weight"": 9
+
+}",['Noise Cancellation']
+210,Allybinu,Wonderful machine,"Excellent product, Useful features, Connectivity super",5,Positive,jbl,"{
+""Aspect"": ""Useful features"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Connectivity"",
+""Weight"": 9
+}","['Useful s', 'Connectivity']"
+211,Milty,Jbl rule,These headphones will bring happiness in to your life,5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}",['Sound']
+212,edwards,Amazing battery life!,Really solid carry case. amazing battery life too!,5,Positive,jbl,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Battery Life"",
+""Weight"": 9
+}","['Design', 'Battery Life']"
+213,Ray,Highly Recommend,Great sound and easy to use. Just what I wanted.,5,Positive,jbl,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}",['Sound']
+214,AGA,JBL - JBL Live PRO 2,"great headphones ,good quality",5,Positive,jbl,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}",['Quality']
+215,Noscar,No fuss. easy & straight forward,Does what it said it will do,4,Positive,jbl,"{
+""Aspect"": ""Does what it said it would do"",
+""Weight"": 8
+}",['Does what it said it would do']
+216,Santa_Vanessa,Epic stuffðð,"Bought JBL pod's, very good.",5,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}",['Sound']
+217,R05,Alright,Alright for Â£100 or so,3,Positive,jbl,"{
+""Aspect"": ""Value"",
+""Weight"": 8
+
+}",['Value']
+218,Caz63,Great Sound and Quality,"I tested these jbl pro 2 ear buds for a couple of weeks and  I am really impressed with the sound and quality of them. They come in a slim box, inside you have the case, instructions, usb c charger cable. Once all set up and connected to my iPhone i was so impressed! the sound quality  is fantastic, I was really impressed the noise cancelling is fantastic works really well and you canât hear any noice from around you which I was surprised with, the sound is perfect no distortion when on loud. they connected easily using  Bluetooth to my iPhone with minimal set up which saves me time. They really are easy to set up and connect so you can soon listen to your music and get on with your day. The ear buds also have Ambient sound which means that you can hear noise around for example walking and you can still hear your music along with the traffic and other sounds which has been fantastic when out walking. The case is a great size so easy to store away in your pocket, the ear buds battery can last a fantastic 8 hours with up to 40 hours charging time in the case, it also comes with usb c charging cable to recharge the ear but case. I Would highly recommend the ear buds they are great value for money and definitely do as good as the expensive ear buds on the market.",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Noise Cancelling"",
+
+""Weight"": 8
+
+}
+
+
+{
+
+""Aspect"": ""Ease of Use"",
+
+""Weight"": 7
+
+}
+
+
+{
+
+""Aspect"": ""Battery Life"",
+
+""Weight"": 6
+
+}","['Sound', 'Noise Cancellation', 'Ease of Use', 'Battery Life']"
+219,Gintare J,Great sound,"This review is coming from someone who is still reletavely new to the world of earbuds. The best part of these headphones is the quality of sound. It is truly noise cancelling and the base is great. There is an option to turn noise cancelling off which is great for when you need to be able to hear sound around you. Bluetooth connection is super fast. I was able to connect to the earbuds in a matter of seconds. 
+I have small ear holes and usually struggle for these type of earbuds to stay in however I found it wasn't a problem and they stayed in using the smallest fitting silicone earbud cover.
+Worked great with calls, others could hear me perfectly and vice versa, which is the feature I'm planning to use it a lot for
+Cons: it will take me a little while to get used to all the earbud touch features and remembering how different touches change settings
+Not a fan of the feature where music gets turned off if one earbud is out of the ear. You can manually turn it back on and then just have one earbud in. However when I was jogging and only wanted one earbud in, then manually turned the music back on, the earbud in my pocket kept turning music off. It's not a big problem now that I'm aware of it and maybe this is a standard feature for most earbuds these days?
+Overall I'm very happy with these and it will serve me great for the purposes intended.",4,Positive,jbl,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+{
+
+""Aspect"": ""Noise cancelling feature"",
+""Weight"": 8
+}
+{
+
+""Aspect"": ""Bluetooth connection"",
+""Weight"": 7
+}
+{
+
+""Aspect"": ""Comfort"",
+""Weight"": 6
+}
+{
+
+""Aspect"": ""Call quality"",
+""Weight"": 5
+}","['Sound', 'Noise Cancellation ', 'Bluetooth connection', 'Comfort', 'Call quality']"
+220,BMod,Great sounds and great battery life!,"I got these a few weeks ago and so far they have been great, I use them for a while most days and still havent run out of charge so I  am very impressed with the battery. It connected to my phone and was set up within a few seconds, I barely had to do anything and I was good to go!
+I tested out the different sized earbuds and they fit really well compared to other ear buds I have tried. I forget that I have them in. 
+I wasn't expecting much from the noise cancelling function but the moment I turned it on, the sound of cars was severely reduced. It can also be customised to your ear using the app which improves it further. I have never used an ambient noise feature before this I coud leave the buds in but still clearly pick up on voices around me if I was speaking to someone so saves me from trying to remove the buds and lose them everytime I speak to someone. 
+The sound quality is great, it has spoilt me now as I won't be able to go back to the cheaper headphones I had before. Same goes for the mic, people could hear me clearly although slightly less so when I was outside walking, however I could hear them better than they could hear me. 
+They are easy to use as you can tap on the buds themselves for the most common changes such as tapping once on the left for ambient aware or noise cancelling, twice for picking up calls or hanging up, tapping once on the left for play/pause etc. Also if you take the buds out of your ear it pauses your music. 
+The only downside I can find and it is very minor is that it is sometimes easy to accidentally press the bud and change a setting when you are just trying to adjust or brush past the bud. 
+Overall I would highly recommend these, I have tried out a few before purchasing these and found the quality and features on these to be much better than others that are similar but from different brands.",4,Positive,jbl,"{
+""Aspects"": [
+""Battery"", ""Setup"", ""Noise Cancelling"", ""Sound Quality"", ""Ease of Use""
+],
+""Weight"": {
+""Battery"": 8,
+""Setup"": 9,
+""Noise Cancelling"": 9,
+""Sound Quality"": 9,
+""Ease of Use"": 8
+}","[
+'Battery', 'Setup', 'Noise Cancellation', 'Sound', 'Ease of Use'
+]"
+221,Janka,Great example of headphones,"My experience with the JBL Live Pro 2 earbuds has been nothing short of exceptional. From the moment I unboxed them, I was struck by their sleek design and premium build quality. These earbuds not only look great but also deliver on performance.
+
+The sound quality is where the JBL Live Pro 2 truly shines. With their high-resolution audio capability, I was treated to a listening experience like no other. The sound is rich, detailed, and balanced, making it a joy to listen to my favorite tracks. Whether it's thumping bass or crystal-clear vocals, these earbuds handle it all with finesse. I also found them to be superb for taking calls, thanks to the clear call quality and effective noise cancellation.
+
+One of the standout features is the active noise cancellation (ANC). It immerses you in your music by effectively blocking out ambient sounds. This is a real game-changer, especially when you want to focus on your music or simply enjoy some peace and quiet.
+
+Comfort is another aspect where the JBL Live Pro 2 shines. The earbuds fit snugly and comfortably in my ears, even during extended listening sessions. This is crucial for all-day use. The long battery life is impressive too; I didn't have to worry about recharging them frequently.
+
+The touch controls on the earbuds are intuitive and convenient, allowing me to adjust volume, skip tracks, and answer calls with ease. They seamlessly integrate into my daily routine.
+
+In summary, the JBL Live Pro 2 earbuds have become an integral part of my daily life. The combination of superb sound quality, effective noise cancellation, comfort, and convenient controls makes them a top-notch choice for wireless earbuds. Whether you're a music enthusiast, a frequent traveler, or simply in need of reliable audio companions, these earbuds are worth every penny. They have set a high bar for what I expect from audio equipment, and I couldn't be more satisfied with my purchase.",5,Positive,jbl,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 10 }
+
+{
+""Aspect"": ""Comfort"",
+""Weight"": 8 }
+
+{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 9 }
+
+{
+""Aspect"": ""Convenience"",
+""Weight"": 7 }","['Sound', 'Comfort', 'Noise Cancellation', 'Convenience']"
+222,Yogesh Naik,Best in the market!,Amazing product and price. You can compare JBL live pro 2 performance with Bose QC30.,5,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Price"",
+""Weight"": 9
+}","['Product', 'Price']"
+223,BIBHU PRASAD GANTAYAT,Just wow!,Excellent and better than Apple Airpod and Samsung Galaxy 2 Pro. The app is much better than from any other brand. After careful review I found these to be of TRUE Winner,5,Positive,flipkart,"{
+""Aspect"": ""Excellent"",
+""Weight"": 10
+}",['Excellent']
+224,Azhar Nazar,Good choice,"Satisfied good sound great features Anc , talk through amazing .But the price is bit high",4,Positive,flipkart,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Features"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Price"",
+""Weight"": 6
+}","['Sound', 'Price']"
+225,Shivam Srivastava,Great product,nice product and sound quality,5,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Sound Quality"",
+""Weight"": 9
+}","['Product', 'Sound']"
+226,Shivam Agarwal,Really Nice,"Audio Quality is Good.
+Fast pairing.
+Good Quality of voice on call.
+6 mic technology is good.
+ANC feature is good.
+
+but Backup is not as much expected as mention on box .(5 to 6 hour backup)",4,Positive,flipkart,"{
+""Aspects"": [
+{
+""Aspect"": ""Audio Quality"",
+""Weight"": 8
+},
+{
+""Aspect"": ""Fast Pairing"",
+""Weight"": 7
+},
+{
+""Aspect"": ""Good Voice Quality on Call"",
+""Weight"": 9
+},
+{
+""Aspect"": ""6 Mic Technology"",
+""Weight"": 8
+},
+{
+""Aspect"": ""ANC Feature"",
+""Weight"": 7
+},
+{
+""Aspect"": ""Backup"",
+""Weight"": 4
+}
+]
+}","['Sound', 'Fast Pairing', 'Good Voice Quality on Call', '6 Mic Technology', 'ANC ', 'Backup']"
+227,Swapnila Naik,Does the job,"Not happy.ð¡ Because ear fitting was not good..
+On this prize
+My expectation was very high very disappointed
+Thank you JBL for wasting my money",2,Negative,flipkart,"{
+""Aspect"": ""Fitting"",
+""Weight"": 6
+}
+
+{
+""Aspect"": ""Expectation"",
+""Weight"": 8
+}","['Fitting', 'Expectation']"
+228,Shanmugam,Just wow!,Except one disadvantage it outshines every area.Noise cancellation not working when connected to laptop and as a result with 6 mics built in it clearly transmits noise to opponents.otherwise this is top notch sound quality matches airpods pro 2 and jbl sound will never disappoint you in any type of music,5,Positive,flipkart,"{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 7
+
+}
+
+{
+
+""Aspect"": ""Sound Quality"",
+
+""Weight"": 9
+
+}","['Noise Cancellation', 'Sound']"
+229,Muzammil Shaikh,Could be way better,"Was working good but suddenly anc started bugging. Now 1 side of the bud doesn't activate anc. Other side doesn't turn off voice aware. True anc became more like a hoax.
+
+Using in mono mode doesn't activate anc at all during calls.
+
+Good for music. Bad for calls.",2,Negative,flipkart,"{
+""Aspect"": ""Bugging"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Voice Aware"",
+""Weight"": 6
+}
+{
+""Aspect"": ""Mono Mode"",
+""Weight"": 4
+}
+{
+""Aspect"": ""True ANC"",
+""Weight"": 9
+}","['Bugging', 'Voice Aware', 'Mono Mode', 'True ANC']"
+230,Yaseen Mac,Does the job,Overall okay ð,3,Positive,flipkart,"{
+""Aspect"": ""Okay"",
+""Weight"": 6
+
+}",['Okay']
+231,Abu Taleb,Perfect product!,"Its is vary good product.. Sound quality is good.
+Awesome.",5,Positive,flipkart,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}",['Sound']
+232,sandip patel,Terrific purchase,"I used sound core early,but JBL proves that no can beat them.Dip bass 100% ,even in ANC proper sound clearty is there.must buy",5,Positive,flipkart,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 10
+}
+
+{
+""Aspect"": ""Bass"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Noise cancellation"",
+""Weight"": 8
+}","['Sound', 'Bass', 'Noise cancellation']"
+233,Prem Harish Chettariyil,Best in the market!,"Best purchase of 2023, everything about this earbuds is so amazing! The built quality is so sleek and glossy. Sound quality, various modes that's available, individual customization was all to the mark. Best sound experience ever.",5,Positive,flipkart,"{
+""Aspect"": ""Built Quality"",
+""Weight"": 9
+}
+{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Customization"",
+""Weight"": 7
+}","['Quality', 'Sound', 'Customization']"
+234,Srikanth Reddy,Best in the market!,these buds are working very well with my iphone 14. it is supporting touch controls and siri as well.,5,Positive,flipkart,"{
+""Aspect"": ""Supports Touch Controls"",
+""Weight"": 8
+
+}
+
+{
+
+""Aspect"": ""Supports Siri"",
+
+""Weight"": 7
+
+}","['Supports Touch Controls', 'Supports Siri']"
+235,Adarsh S Victor,Great product,Very good product,5,Positive,flipkart,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8
+}",['Quality']
+236,Shivansh Dubey,Worst audio calling experience,"I specifically purchased this product for a high quality calling experience, since product has highlighted having crystal clear calling experience with 6 mics etc .... total let down. Most of the time end user is not even able to hear properly.",2,Negative,flipkart,"{
+""Aspect"": ""Calling Experience"",
+""Weight"": 7
+
+}",['Calling Experience']
+237,R.Chandra Sekhar,Did not meet expectations,Sound quality is very good. A deep base is good. Volume control does not work properly. Wind noise is loud while riding a bike. Call quality is better. App not working properly after update. Sound clarity unknown when editing equalizer bands will be known after saving.,1,Negative,flipkart,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}
+{
+""Aspect"": ""Volume control"",
+""Weight"": 2
+}
+{
+""Aspect"": ""Wind noise"",
+""Weight"": 6
+}
+{
+""Aspect"": ""Call quality"",
+""Weight"": 9
+}
+{
+""Aspect"": ""App not working properly"",
+""Weight"": 5
+}
+{
+""Aspect"": ""Sound clarity"",
+""Weight"": 7
+}","['Sound', 'Volume control', 'Wind noise', 'Call quality', 'App not working properly', 'Sound']"
+238,Sirish Shivakumar,Decent product,"Sound quality, build and bass are amazing! Unfortunately thats were the good part ends! Connectivity, functionality of the product lacks a ton. Has frequent connection drops and audio stutter/black outs. Has the gesture to toggle between noise cancelling and ambient sound profiles and this gestues keeps getting reset and wont toggle/switch to noise cancelling profile.
+Feels like JBL was in a hurry to release a unfinished/untested product to the market. Do not recommend this, there are a ton of better earphones for 14k or maybe even better performing ones for 1/4 its price!",3,Negative,flipkart,"{
+""Aspects"": [""Sound quality"", ""Build"", ""Bass""],
+""Weight"": 8.5
+}
+
+{
+
+""Aspects"": [""Connectivity"", ""Functionality"", ""Gesture to toggle between noise cancelling and ambient sound profiles""],
+""Weight"": 2
+
+}","['Sound', 'Build', 'Bass']"
+239,noor basha,Very poor,"Unhappy, disappointed,
+Sound quality is worst, not able to watch movies with this Sound, anc calling options are also not good, wasting money and time",1,Negative,flipkart,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Calling Options"",
+""Weight"": 5
+}","['Sound', 'Calling Options']"
+240,Flipkart Customer,Excellent,Sound quality Great and good ANC support,5,Positive,flipkart,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}",['Sound']
+241,Flipkart Customer,Useless product,Does not live up to the promise of pristine calls and effective microphone. Don't purchase for calling purposes,1,Negative,flipkart,"{
+""Aspect"": ""Call quality"",
+""Weight"": 8
+
+}",['Call quality']
+242,Prasanth K R,Great product,Nice product,5,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 8
+}",['Product']
+243,Flipkart Customer,Wonderful,What aa bass yar super bass nice earbuds ilikeed mostly,5,Positive,flipkart,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}",['Sound']
+244,jerot mara,Highly recommended,I love jbl,5,Positive,flipkart,"{
+""Aspect"": ""Love"",
+""Weight"": 10
+}",['Love']
+245,Flipkart Customer,Terrific purchase,Awesome product,5,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 9
+}",['Product']
+246,Sanjeev Mittal,Highly recommended,"Excellent, superb",5,Positive,flipkart,"{
+""Aspect"": ""Excellent"",
+""Weight"": 9
+}",['Excellent']
+247,Prakash Royal,Excellent,Good Ear buds Go For it ..quality exlant and Clear sounds.,5,Positive,flipkart,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}",['Quality']
+248,Anil Kirvadi,Awesome,This is one best alternative for an Apple iPods.. the app and its features are awesome.very comfortable fit,5,Positive,flipkart,"{
+""Aspect"": ""Awesome"",
+""Weight"": 9
+
+}",['Awesome']
+249,Jayant Hingorani,Simply awesome,"One of the best TWS, I've ever used.",5,Positive,flipkart,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 9
+}",['Quality']
+250,Flipkart Customer,Brilliant,Great product.love the sound quality and great ANC and awesome battery backup,5,Positive,flipkart,"{
+""Aspect"": ""Sound Quality"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Active Noise Cancellation"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Battery Backup"",
+""Weight"": 7
+}","['Sound', 'Active Noise Cancellation', 'Battery Backup']"
+251,B.KESHAVA,Absolute rubbish!,WASTE OF MONEY.,1,Negative,flipkart,"{
+""Aspect"": ""Waste of money"",
+""Weight"": 8
+}",['Waste of money']
+252,Randeep kumar,Horrible,Worst purchase and don't purchase it from Flipkart.,1,Negative,flipkart,"{
+""Aspect"": ""Poor Product Quality"",
+""Weight"": 8
+}",['Poor Quality']
+253,Tarique Jamal,Not recommended at all,"There is no doubt sound quality is very good, battery backup is very good but the worst thing is it's falling down from ear after 1 or 2 minutes, I was changed lot of bud tips but there is no benifits. it's not stay in ear and falling down again and again, so my opinion is this worst earbud after pay a lot. I was wrote the email to customer service about this issue but there no satisfied reply.",1,Negative,flipkart,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 9
+}
+{
+
+""Aspect"": ""Battery backup"",
+
+""Weight"": 8
+
+}
+{
+
+""Aspect"": ""Falling down"",
+
+""Weight"": 6
+
+}","['Sound', 'Battery backup', 'Falling down']"
+254,ARUN Das,Don't waste your money,Compare price bad quality,1,Negative,flipkart,"{
+""Aspect"": ""Price"",
+""Weight"": 6
+}",['Price']
+255,Flipkart Customer,Simply awesome,Thanks to Flipkart as I was able to purchase a valuable product which seemed really sustainable to me.,5,Positive,flipkart,"{
+""Aspect"": ""Product quality"",
+""Weight"": 8
+
+}",['Quality']
+256,Hitesh Kumar,Nice product,"Sound wise very good good base
+But fitting is not right I have tried all ear buds given in box but nothing work.every time I wear this buds I feel it is about to fall anytime,infact when u use during running or even walking it falls easily.
+Even in sleeping position u have to adjust buds frequently that so annoying.",4,Positive,flipkart,"{
+""Aspect"": ""Fitting"",
+""Weight"": 6 }",['Fitting']
+257,GYANARANJAN SINHA,Best in the market!,Very good product in this range,5,Positive,flipkart,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}",['Quality']
+258,Shailesh kumar Singh,Excellent,Super,4,Positive,flipkart,"{
+""Aspect"": ""Super"",
+""Weight"": 9
+}",['Super']
+259,Raju Kumar,Nice product,Exlent,4,Positive,flipkart,"{
+""Aspects"": [""Excellent"", ""Good""],
+""Weight"": 8
+
+}",[]
+260,Flipkart Customer,Wonderful,Good product,4,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 8
+}",['Product']
+261,Rijul,Brilliant,Amazing pair,5,Positive,flipkart,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}",['Quality']
+262,Flipkart Customer,Brilliant,Very good product and super,5,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 8
+}",['Product']
+263,Sayak Samanta,Utterly Disappointed,Very bad product,1,Negative,flipkart,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8
+}",['Quality']
+264,Kalpesh Kadam,Excellent,Best Noise cancellation in an earbuds till date,5,Positive,flipkart,"{
+""Aspect"": ""Noise Cancellation"",
+""Weight"": 9
+
+}",['Noise Cancellation']
+265,Badri N,Nice,Battery backup worst,3,Negative,flipkart,"{
+""Aspect"": ""Battery Backup"",
+""Weight"": 8
+}",['Battery Backup']
+266,siva kumar,Worth the money,It's a perfect gadget for music lovers ð¶ðµ,4,Positive,flipkart,"{
+""Aspect"": ""Music"",
+""Weight"": 8
+
+}",['Music']
+267,Flipkart Customer,Simply awesome,Very good,5,Positive,flipkart,"{
+""Aspect"": ""Quality"",
+""Weight"": 8
+}",['Quality']
+268,Sunil Arjun,Must buy!,"Super vocal end troubles
+Bass quality asome
+deign build quality superb ð¥",5,Positive,flipkart,"{
+""Aspect"": ""Bass quality"",
+""Weight"": 9
+}
+
+{
+""Aspect"": ""Design"",
+""Weight"": 8
+}
+
+{
+""Aspect"": ""Build quality"",
+""Weight"": 10
+}","['Bass quality', 'Design', 'Build']"
+269,Shane Geo,Brilliant,"Very good product for the price, I got for 8k. ANC is slightly poor. Major issue is when using the buds in mono other than the equaliser none of the other features work.",5,Positive,flipkart,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8
+}
+
+{
+
+""Aspect"": ""ANC Quality"",
+
+""Weight"": 3
+}
+
+{
+
+""Aspect"": ""Mono Functionality"",
+
+""Weight"": 7
+}","['Quality', 'ANC Quality', 'Mono Functionality']"
+270,Iai Majaw,Awesome,Nice earbuds,5,Positive,flipkart,"{
+""Aspect"": ""Design"",
+""Weight"": 8
+}",['Design']
+271,Shailesh Varma,Best in the market!,Music lover bay these product,5,Positive,flipkart,"{
+""Aspect"": ""Music quality"",
+""Weight"": 8
+}",['Sound']
+272,Darshan Patel,Super!,Best product,5,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 9
+}",['Product']
+273,Naveen Panchal,Classy product,Amazing product thanx JBL,5,Positive,flipkart,"{
+""Aspect"": ""Product"",
+""Weight"": 9
+}",['Product']
+274,Prasad Chavan,Value-for-money,Nice ð,4,Positive,flipkart,"{
+""Aspects"": [""Nice"", ""Product""],
+""Weight"": 8
+}",[]
+275,Govindaraj B P,Simply awesome,Very good sound quality and call quality ð,5,Positive,flipkart,"{
+""Aspect"": ""Sound quality"",
+""Weight"": 8
+}",['Sound']
+276,Rohit Pandey,Good quality product,A very premium quality product. I love the music without distortion but this tws dont have that much of loudness as i expected from jbl rest everything is excellent.. jbl should increase loudness of this buds,4,Positive,flipkart,"{
+""Aspect"": ""Quality"",
+""Weight"": 9
+}
+
+{
+
+""Aspect"": ""Loudness"",
+
+""Weight"": 2
+
+}","['Quality', 'Loudness']"
+277,Rupesh Raj,Good choice,"I m expected one more point sound, to experience wow feeling",4,Positive,flipkart,"{
+""Aspect"": ""Sound"",
+""Weight"": 8
+}",['Sound']
+278,Bhupendra Thakur,Must buy!,Fantastic,5,Positive,flipkart,"{
+""Aspect"": ""Fantastic"",
+""Weight"": 9
+}",['Fantastic']
+279,Mari Kumar,Awesome,Awesome product worth for money,5,Positive,flipkart,"{
+""Aspect"": ""Worth for Money"",
+""Weight"": 8
+}",['Worth for Money']
+280,Dr sandeep koshy mathew,Simply awesome,As JBL as it goes.. Great,5,Positive,flipkart,"{
+""Aspect"": ""Great"",
+""Weight"": 8
+}",['Great']
+281,Flipkart Customer,Worth every penny,I like it,5,Positive,flipkart,"{
+""Aspect"": ""Like"",
+""Weight"": 8
+}",['Like']
+282,Flipkart Customer,Value-for-money,Anc could be better,4,Positive,flipkart,"{
+""Aspect"": ""Product Quality"",
+""Weight"": 8
+}",['Quality']

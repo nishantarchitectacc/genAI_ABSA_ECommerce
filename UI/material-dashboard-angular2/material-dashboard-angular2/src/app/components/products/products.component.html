@@ -1,0 +1,68 @@
+
+<div class="main-content">
+    <div class="container-fluid">
+        <div class="card card-plain">
+            <div class="card-header card-header-danger">
+                <h4 class="card-title">JBL Products</h4>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card-body">
+                        <mat-card-content>
+                            <div class="col-md-12 d-sm-block">
+                                <mat-tab-group>
+                                    <mat-tab label="Featured"></mat-tab>
+                                    <mat-tab label="Headphones">
+                                        <div class="card-body">
+                                            <mat-card-content>
+                                                <div class="selection-wrapper">
+                                                    <span class="selection-header" *ngIf="!showProductDetails">Select the product</span>
+                                                    <div class="selection-items" *ngIf="!showProductDetails else productDetails">
+                                                        <img (click)="productSelected()" class="product-icon" src="/assets/img/jbl_new.png"/>
+                                                    </div>
+                                                </div>
+                                            </mat-card-content>                          
+                                        </div>
+                                    </mat-tab>
+                                    <mat-tab label="Speakers"></mat-tab>
+                                    <mat-tab label="Soundbar"></mat-tab>
+                                    <mat-tab label="Car Audio"></mat-tab>
+                                  </mat-tab-group>
+                            </div>
+                            <ng-template #productDetails>
+                                <div class="product-details header" *ngIf="!showChatBot">
+                                    <div style="margin-top: 30px;"><span class="selected-product">JBL Live 2 Pro TWS</span>
+                                        <div style="display: flex;"><img class="wc-logo" src="/assets/img/strengths.png" (click)="showDialog('/assets/img/Positive.png')"/>
+                                            <img class="wc-logo" (click)="showDialog()" src="/assets/img/improvements.png" (click)="showDialog('/assets/img/Negative.png')"/></div>
+                                            <div style="display: flex; margin: 0 85px 40px 85px; justify-content: space-between;">
+                                                <div class="positive-aspects">
+                                                    <div class="user-feedback-input" *ngFor="let input of positiveFeedbacks">* {{input}}</div>
+                                                </div>
+                                                <div class="negative-aspects">
+                                                    <div class="user-feedback-output" *ngFor="let input of negativeFeedback">* {{input}}</div>
+                                                </div>
+                                            </div>
+                                    </div>
+                                    <div class="product-header header">
+                                      Sentimate Analysis based on aspects 
+                                    </div>
+                                    <div>
+                                        <div><img class="aspect-logo" src="/assets/img/AspectAnalysis.png"/></div>
+                                    </div>
+                                    <div class="product-header header">
+                                        Action Items
+                                    </div>
+                                    <div style="padding: 0 141px; margin-bottom: 30px;">
+                                        <div class="user-feedback-output" *ngFor="let actions of actionItems">
+                                            * {{actions}}
+                                        </div>
+                                    </div>  
+                                </div>
+                            </ng-template>
+                        </mat-card-content>                          
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>

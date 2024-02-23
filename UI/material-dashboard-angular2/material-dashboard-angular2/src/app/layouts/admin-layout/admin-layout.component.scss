@@ -1,0 +1,128 @@
+.chatbot-page-wrapper {
+    margin-top: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-family: serif;
+    font-style: italic;
+    color: #3d85c6;
+}
+
+::ng-deep .mat-tab-body-content {
+    overflow: hidden;
+}
+
+::ng-deep .mat-form-field.mat-input-element {
+    font-style: italic !important;
+    font-size: 14px;
+    font-family: serif;
+    background-color: #3d85c6;
+}
+
+::ng-deep .mat-form-field.mat-focused {
+    .mat-form-field-label {
+        color: #306a9e;
+    }
+    .mat-form-field-ripple {
+        background-color: #306a9e;
+    }
+    .mat-form-field-required-marker {
+        color: #306a9e;
+    }
+    .mat-input-element {
+        color: #306a9e;
+    }
+}
+
+::ng-deep .mat-form-field{
+    .mat-form-field-label {
+        color: #3d85c6;
+    }
+    .mat-form-field-ripple {
+        background-color: #3d85c6;
+    }
+    .mat-form-field-required-marker {
+        color: #3d85c6;
+    }
+    .mat-input-element {
+        color: #3d85c6;
+    }
+}
+
+.close-icon {
+    position: absolute;
+    right: 17px;
+}
+
+.conversation-area {
+    overflow-y: auto;
+    height: auto;
+}
+
+.footer {
+    display: flex;
+    position: sticky;
+    width: 100%;
+    top: 59%;
+    padding: 0 5%;
+    color: #3d85c6;
+  }
+
+  .suggestion-boxes {
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    margin: 1% 20%;
+    position: sticky;
+    
+    button {
+        border-radius: 3.2rem;
+    }
+  }
+
+  .feedback-icn {
+    position: absolute;
+    right: 0;
+    bottom: 3px;
+  }
+
+  .mat-tab-body-content {
+    overflow: hidden !important;
+}
+
+.main-panel .footer {
+    border-top: 1px solid transparent !important;
+}
+
+.conversation-area {
+    height: 40%;
+    overflow-y: auto;
+    width: auto;
+    
+}
+
+.user-feedback-input {
+    color: #1e4263;
+    position: relative;
+    width: 50%;
+    margin-left: 50%;
+    background-color: #d8e6f3;
+    border: 1px solid #d8e6f3;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.user-feedback-output {
+    color: #1e4263;
+    position: relative;
+    width: 70%;
+    margin-right: 50%;
+    background-color: #d8e6f3;
+    border: 1px solid #d8e6f3;
+    border-radius: 5px;
+    padding: 5px;
+
+}

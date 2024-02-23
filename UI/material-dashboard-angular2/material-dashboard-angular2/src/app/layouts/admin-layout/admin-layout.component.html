@@ -1,0 +1,146 @@
+<div class="wrapper">
+    <div class="sidebar" data-color="danger" data-background-color="white" data-image="./assets/img/sidebar-1.jpg">
+        <app-sidebar></app-sidebar>
+        <div class="sidebar-background" style="background-image: url(./assets/img/sidebar-4.jpg)"></div>
+    </div>
+    <div class="main-panel">
+        <!-- <app-navbar></app-navbar> -->
+        <router-outlet></router-outlet>
+    </div>
+    <div class="fixed-plugin">
+        <div class="dropdown show-dropdown open show">
+            <a href="#" data-toggle="dropdown" aria-expanded="true">
+                <mat-icon fontIcon="forum"></mat-icon> Ask Us
+            </a>
+            <ul class="dropdown-menu show" x-placement="bottom-start" style="position: absolute; top: 41px; left: -231px; will-change: top, left;">
+                <li class="adjustments-line">
+                    <a href="javascript:void(0)" class="switch-trigger active-color">
+                        <div class="ml-auto mr-auto" style="height: 120vh;">
+                            <span class="header">
+                                How may I help you today                            
+                            </span>
+                            <span class="header" style="margin-top: 15px; margin-left: 20px;">Here are some suggestions for your search</span>
+                            <span class="suggestion-boxes">
+                                <button mat-raised-button class="btn btn-danger btn-block" (click)="setFeedbackValue('Do people feel that Jbl tws pro 2 product has a premium appeal?')">
+                                    Premium appeal
+                                  </button>
+                                  <button mat-raised-button class="btn btn-danger btn-block" (click)="setFeedbackValue('users are comparing what products with JBL Live Pro 2 TWS in their reviews?')">
+                                    Competitions in market
+                                  </button>
+                            </span>
+                            <span class="suggestion-boxes">
+                                <button mat-raised-button class="btn btn-danger btn-block" (click)="setFeedbackValue('What are top 3 improvement opportunities for JBL Live Pro 2 TWS product?')">
+                                    Improvements
+                                  </button>
+                                  <button mat-raised-button class="btn btn-danger btn-block" (click)="setFeedbackValue('What are top 10 negative aspects users are taking about in their reviews for JBL Live Pro 2 TWS?')">
+                                    Negative aspects as per users
+                                  </button>
+                            </span>
+                            <div class="conversation-area">
+                                <div style="margin-bottom: 10px;" class="user-feedback-input" *ngFor="let input of userFeedbackInput">{{input}}</div>
+                                <div style="margin-bottom: 10px;" class="user-feedback-output" *ngFor="let output of userFeedbackOutput">{{output}}</div>
+                            </div>
+                            <mat-form-field class="example-full-width footer">
+                                <mat-label>Enter your query</mat-label>
+                                <input matInput [(ngModel)]="feedbackValue" (keyup.enter)="getProcessedFeedbackResponse()">
+                                <mat-icon class="feedback-icn" (click)="getProcessedFeedbackResponse()">play_arrow</mat-icon>
+                              </mat-form-field>
+                        </div>
+                        <div class="clearfix"></div>
+                    <div class="ripple-container"></div></a>
+                </li>
+                <!-- <li>
+                    <a class="img-holder switch-trigger" href="javascript:void(0)">
+                        <img src="./assets/img/sidebar-1.jpg" alt="">
+                    </a>
+                </li>
+                <li>
+                    <a class="img-holder switch-trigger" href="javascript:void(0)">
+                        <img src="./assets/img/sidebar-2.jpg" alt="">
+                    <div class="ripple-container"></div></a>
+                </li>
+                <li>
+                    <a class="img-holder switch-trigger" href="javascript:void(0)">
+                        <img src="./assets/img/sidebar-3.jpg" alt="">
+                    </a>
+                </li>
+                <li class="active">
+                    <a class="img-holder switch-trigger" href="javascript:void(0)">
+                        <img src="./assets/img/sidebar-4.jpg" alt="">
+                    </a>
+                </li> -->
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Buy-Modal-angular -->
+<div class="modal modal-angular fade" id="buy" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-body text-center">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="margin-top">
+                Free Version
+            </h4>
+            <div class="separator"></div>
+            <a href="https://www.creative-tim.com/product/material-dashboard" class="modal-button" target="_blank">
+                <div class="wrapper-card">
+                    <div class="image-container">
+                        <img src="./assets/img/html.png" alt="unloaded">
+                    </div>
+                    Html5
+                    <div class="separator"></div>
+                    <div class="product-type">
+                        FREE
+                    </div>
+                </div>
+            </a>
+            <a href="https://www.creative-tim.com/product/material-dashboard-angular2" class="modal-button" target="_blank">
+                <div class="wrapper-card">
+                    <div class="image-container image-angular-cli">
+                        <img src="./assets/img/angular.png" alt="unloaded">
+                    </div>
+                    Angular
+                    <div class="separator"></div>
+                    <div class="product-type">
+                        FREE
+                    </div>
+                </div>
+            </a>
+            <h4>
+                PRO Version
+            </h4>
+            <div class="separator"></div>
+            <a href="https://www.creative-tim.com/product/material-dashboard-pro" class="modal-button" target="_blank">
+                <div class="image-container">
+                    <img src="./assets/img/html.png" alt="unloaded">
+                </div>
+                Html5
+                <div class="separator"></div>
+                <div class="price">
+                    from
+                    <span>
+                        49
+                        <i class="fa fa-usd" aria-hidden="true"></i>
+                    </span>
+                </div>
+            </a>
+            <a href="https://www.creative-tim.com/product/material-dashboard-pro-angular2" class="modal-button" target="_blank">
+                <div class="image-container image-angular-cli">
+                    <img src="./assets/img/angular.png" alt="unloaded">
+                </div>
+                Angular
+                <div class="separator"></div>
+                <div class="price">
+                    from
+                    <span>
+                        59
+                        <i class="fa fa-usd" aria-hidden="true"></i>
+                    </span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+</div>

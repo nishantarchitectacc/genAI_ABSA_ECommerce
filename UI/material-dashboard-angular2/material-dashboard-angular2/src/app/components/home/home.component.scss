@@ -1,0 +1,15 @@
+.confirm-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 40%;
+}
+
+.mat-fab {
+    width: 10vw;
+    border-radius: 5px;
+}
+
+.mat-fab.mat-primary {
+    background-color: #3d85c6;
+}
